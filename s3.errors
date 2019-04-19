@@ -1,0 +1,26 @@
+Assembling S3.ZAP.7 on Tuesday, May 31, 1988 14:47:54
+Release: 10
+
+    64	Inserting S3FREQ.XZAP.2	   (646 bytes)
+   710	Inserting S3DAT.ZAP.5	 (25962 bytes)
+ 26672	Inserting S3PUR.ZAP.5	  (1744 bytes)
+ 28416	Inserting MISC.ZAP.4	  (1961 bytes)
+ 30377	Inserting PARSER.ZAP.7	  (5968 bytes)
+ 36345	Inserting VERBS.ZAP.2	 (10604 bytes)
+ 46949	Inserting GLOBALS.ZAP.2	 (19176 bytes)
+ 66125	Inserting COMPONE.ZAP.2	 (15165 bytes)
+ 81290	Inserting COMPTWO.ZAP.2	 (15542 bytes)
+ 96832	Inserting HINTS.ZAP.2	  (1384 bytes)
+ 98216	Inserting S3STR.ZAP.5	 (38344 bytes)
+
+Symbols unused:
+GLOBAL-VARS-TABLE
+
+257 objects.
+240 globals.
+696 word vocabulary.
+
+136560 bytes (134K).
+ 26672 bytes of preload.
+ 17435 bytes of impure.
+Outputting symbol tables

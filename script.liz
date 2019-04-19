@@ -1,0 +1,4203 @@
+[Automatic transcript: User is LIZ]
+
+PLANETFALL
+Infocom interactive fiction - a science fiction story
+Copyright (c) 1983, 1988 by Infocom, Inc. All rights reserved.
+PLANETFALL is a registered trademark of Infocom, Inc.
+Release 10 / Serial number 880531 / Interpreter 1 Version C
+
+
+Another routine day of drudgery aboard the Stellar Patrol Ship Feinstein. This
+morning's assignment for a certain lowly Ensign Seventh Class: scrubbing the
+filthy metal deck at the port end of Level Nine. With your Patrol-issue
+self-contained multi-purpose all-weather scrub brush you shine the floor with
+a diligence born of the knowledge that at any moment dreaded Ensign First
+Class Blather, the bane of your shipboard existence, could appear.
+
+Deck Nine
+This is a featureless corridor similar to every other corridor on the ship. It
+curves away to starboard, and a gangway leads up. To port is the entrance to
+one of the ship's primary escape pods. The pod bulkhead is closed.
+
+>SAVE
+To file (SAVE): START.P.1Ok.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+Ensign First Class Blather swaggers in. He studies your work with half-closed
+eyes. "You call this polishing, Ensign Seventh Class?" he sneers. "We have a
+position for an Ensign Ninth Class in the toilet-scrubbing division, you know.
+Thirty demerits." He glares at you, his arms crossed.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+A massive explosion rocks the ship. Echoes from the explosion resound
+deafeningly down the halls. The door to port slides open. Blather, confused by
+this nonroutine occurrence, orders you to continue scrubbing the floor, and
+then dashes off.
+
+>W.SAVE
+Escape Pod
+
+The ship shakes again. You hear, from close by, the sounds of emergency
+bulkheads closing.
+
+To file (PS:<LIZ>START.P): POD.P.1Ok.
+
+>Z.Z
+Time passes...
+
+The pod door clangs shut as heavy explosions continue to buffet the Feinstein.
+
+Time passes...
+
+You feel the pod begin to slide down its ejection tube as explosions shake the
+mother ship.
+
+>GET IN WEBBING
+Escape Pod, in the safety web
+You are now safely cushioned within the web.
+
+Through the viewport of the pod you see the Feinstein dwindle as you head
+away. Bursts of light dot its hull. Suddenly, a huge explosion blows the
+Feinstein into tiny pieces, sending the escape pod tumbling away! 
+
+As the escape pod tumbles away from the former location of the Feinstein, its
+gyroscopes whine. The pod slowly stops tumbling. Lights on the control panel
+blink furiously as the autopilot searches for a reasonable destination.
+
+>Z.Z
+Time passes...
+
+The auxiliary rockets fire briefly, and a nearby planet swings into view
+through the port. It appears to be almost entirely ocean, with just a few
+visible islands and an unusually small polar ice cap. A moment later, the
+system's sun swings into view, and the viewport polarizes into a featureless
+black rectangle.
+
+Time passes...
+
+The main thrusters fire a long, gentle burst. A monotonic voice issues from
+the control panel. "Approaching planet...human-habitable."
+
+>Z.Z
+Time passes...
+
+Time passes...
+
+>Z.Z
+Time passes...
+
+Time passes...
+
+The pod is buffeted as it enters the planet's atmosphere.
+
+>Z.Z
+Time passes...
+
+You feel the temperature begin to rise, and the pod's climate control system
+roars as it labors to compensate.
+
+Time passes...
+
+The viewport suddenly becomes transparent again, giving you a view of endless
+ocean below. The lights on the control panel flash madly as the pod's computer
+searches for a suitable landing site. The thrusters fire long and hard,
+slowing the pod's descent.
+
+>Z.
+Time passes...
+
+The pod is now approaching the closer of a pair of islands. It appears to be
+surrounded by sheer cliffs rising from the water, and is topped by a wide
+plateau. The plateau seems to be covered by a sprawling complex of buildings.
+
+>Z
+Time passes...
+
+The pod lands with a thud. Through the viewport you can see a rocky cleft and
+some water below. The pod rocks gently back and forth as if it was
+precariously balanced. A previously unseen panel slides open, revealing some
+emergency provisions, including a survival kit and a towel.
+
+>GET OUT OF WEBBING
+Escape Pod
+There is a towel here.
+There is a survival kit here.
+As you stand, the pod shifts slightly and you feel it falling. A moment later,
+the fall stops with a shock, and you see water rising past the viewport.
+
+>GET ALL
+towel: Taken.
+survival kit: Taken.
+
+>OPEN DOOR
+The bulkhead opens and cold ocean water rushes in!
+
+The pod is now completely submerged, and you feel it smash against underwater
+rocks. Bubbles streaming upward past the window indicate that the pod is
+continuing to sink.
+
+>U
+Underwater
+You are momentarily disoriented as you enter the turbulent waters. Currents
+buffet you against the sharp rocks of an underwater cliff. A dim light filters
+down from above.
+
+>SAVE
+To file (PS:<LIZ>POD.P): UP.P.1Ok.
+
+>U
+Crag
+
+>U
+Balcony
+This is an octagonal room, half carved into and half built out from the cliff
+wall. Through the shattered windows which ring the outer wall you can see
+ocean to the horizon. A weathered metal plaque with barely readable lettering
+rests below the windows. The language seems to be a corrupt form of
+Galalingua. A steep stairway, roughly cut into the face of the cliff, leads
+upward. A rocky crag can be seen about eight meters below.
+
+>U
+Winding Stair
+The middle of a long, steep stairway carved into the face of a cliff.
+
+>U
+Courtyard
+You are in the courtyard of an ancient stone edifice, vaguely reminiscent of
+the castles you saw during your leave on Ramos Two. It has decayed to the
+point where it can probably be termed a ruin. Openings lead north and west,
+and a stairway downward is visible to the south. 
+
+>N
+Plain Hall
+This is a featureless hall leading north and south. Although the hallway is
+old and dusty, the construction is of a much more modern style than the castle
+to the south. A similar hall branches off to the northeast.
+
+>NE
+Rec Corridor
+This is a wide, east-west hallway. Portals lead north and south, and another
+corridor branches southwest.
+
+>E
+Mess Corridor
+This is a wide, east-west hallway with a large portal to the south. A small
+door to the north is closed and hooked with a simple steel padlock which is
+also closed.
+
+>E
+Dorm Corridor
+This is a wide, east-west hallway with openings to the north and south. To the
+east, the corridor stretches off into the distance. That section of the
+hallway is lined with a motorized walkway (no longer running) that was
+probably intended to transport people or cargo down that tremendously long
+hall.
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+A north-south corridor intersects the main corridor here. To the west, the
+main corridor extends as far as you can see; a nonworking walkway from that
+direction ends here. To the east, the corridor widens into a well-lit area.
+
+>I
+You are carrying:
+  A survival kit
+  A towel
+  A diary
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+  A Patrol-issue self-contained multi-purpose scrub brush
+
+>DROP TOWEL,DIARY,BRUSH.OPEN KIT.S.S.
+towel: Dropped.
+diary: Dropped.
+Patrol-issue self-contained multi-purpose scrub brush: Dropped.
+
+Opening the survival kit reveals a blob of green goo, a blob of brown goo, and
+a blob of red goo.
+
+Mech Corridor North
+Entrances to rooms lie to the east and west from this north-south hall.
+
+Mech Corridor
+Entrances to rooms lie to the east and west from this north-south hall.
+
+>S.SE.SEARCH ROBOT.TURN IT ON
+Mech Corridor South
+The corridor ends here with doorways to the southwest, south, and southeast.
+
+Robot Shop
+This room, with exits west and northwest, is filled with robot-like devices of
+every conceivable description, all in various states of disassembly.
+Only one robot, about four feet high, looks even remotely close to being in
+working order.
+
+In one of the robot's compartments you find and take a magnetic-striped card
+embossed "Loowur Elavaatur Akses Kard."
+
+Nothing happens.
+
+>W.W
+Machine Shop
+This room is probably some sort of machine shop filled with a variety of
+unusual machines. Doorways lead north, east, and west.
+
+Standing against the rear wall is a large dispensing machine with a spout. The
+dispenser is lined with brightly colored buttons. The first four buttons,
+labelled "KUULINTS 1 - 4", are colored red, blue, green, and yellow. The next
+three buttons, labelled "KATALISTS 1 - 3", are colored gray, brown, and black.
+The last two buttons are both white. One of these is square and says "BAAS."
+The other white button is round and says "ASID."
+
+Tool Room
+This is apparently a storage room for tools. Exits lead northeast and east.
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+On an upper shelf is a metal bar, curved into a U-shape.
+Sitting on the floor below the lowest shelf is a large glass flask.
+There is a pair of wide-nosed pliers here.
+
+>GET MAGNET,FLASK
+curved metal bar: Taken.
+glass flask: Taken.
+
+>NE
+Mech Corridor South
+
+>N.N.
+Mech Corridor
+
+The robot you were fiddling with in the Robot Shop bounds into the room. "Hi!"
+he says, with a wide and friendly smile. "You turn Floyd on? Be Floyd's
+friend, yes?"
+
+Mech Corridor North
+
+>N
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+>N
+Admin Corridor South
+This section of hallway seems to have suffered some minor structural damage.
+The walls are cracked, and a jagged crevice crosses the floor. An opening
+leads east and the corridor heads north and south.
+
+>SAVE
+To file (PS:<LIZ>UP.P): KEY.P.1Ok.
+
+>PUT KEY NEAR CRACK
+You can't see any key here!
+
+>PUT MAGNET NEAR CRACK
+With a spray of dust and a loud clank, a piece of metal leaps from the crevice
+and affixes itself to the magnet. It is a steel key! With a tug, you remove
+the key from the magnet.
+
+>DROP MAGNET.S.W
+Dropped.
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>W
+Mess Corridor
+
+>SAVE
+To file (PS:<LIZ>KEY.P): LOCK.P.1Ok.
+
+>UNLOCK LOCK WITH KEY
+The padlock springs open.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>GET LOCK
+Taken.
+
+>I
+You are carrying:
+  A padlock
+  A key
+  A glass flask
+  A lower elevator access card
+  A survival kit
+  The survival kit contains:
+    A blob of green goo
+    A blob of brown goo
+    A blob of red goo
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+Floyd yawns and looks bored.
+
+>DROP LOCK,KEY
+padlock: Dropped.
+key: Dropped.
+
+>L
+Mess Corridor
+This is a wide, east-west hallway with a large portal to the south. A small
+door to the north is closed.
+There is a key here.
+There is a padlock here.
+There is a multiple purpose robot here.
+Floyd tells you about the time he helped someone sharpen a pencil.
+
+>N
+The door is closed.
+
+>OPEN DOR
+[I don't know the word "dor."]
+
+>OOPS DOOR
+Opened.
+
+>N
+Storage West
+A heavy-duty extendable ladder is leaning against the rear wall.
+On a small shelf is a large, unopened tin can. It has a plain white label
+which reads "Spam and Egz."
+Floyd follows you.
+
+>I
+You are carrying:
+  A glass flask
+  A lower elevator access card
+  A survival kit
+  The survival kit contains:
+    A blob of green goo
+    A blob of brown goo
+    A blob of red goo
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+>EAT RED GOO
+Mmmm...that tasted just like scrumptious cherry pie.
+
+>DROP ALL
+glass flask: Dropped.
+lower elevator access card: Dropped.
+survival kit: Dropped.
+Patrol uniform: You'll have to take it off, first.
+chronometer: You'll have to take it off, first.
+
+>GET LADDER
+Taken.
+
+>S.E.E
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+Dorm Corridor
+
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+>N
+Admin Corridor South
+There is a curved metal bar here.
+
+>N
+Admin Corridor
+The hallway, in fact the entire building, has been rent apart here, presumably
+by seismic upheaval. You can see the sky through the severed roof above, and
+the ground is thick with rubble. To the north is a gaping rift, at least eight
+meters across and thirty meters deep. A wide doorway, labelled "Sistumz
+Moniturz," leads west.
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+>SAVE
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>LOCK.P): LADDER.P.1Ok.
+
+>DROP LADDER
+Dropped.
+
+>EXTEND LADDER.PUT IT ACROSS RIFT.N
+The ladder extends to a length of around eight meters.
+
+The ladder swings out across the rift and comes to rest on the far edge,
+spanning the precipice.
+
+You slowly make your way across the swaying ladder. You can see sharp, pointy
+rocks at the bottom of the rift, far below...
+
+Admin Corridor North
+
+>W.OPEN DESK THEN GET ALL FROM DRAWER.W.OPEN DRAWER
+Small Office
+You have entered a small office of some sort. A small desk faces the main
+doorway which lies to the east. Another exit leads west.
+
+Opening the small desk reveals a upper elevator access card, and a kitchen
+access card.
+
+upper elevator access card: Taken.
+kitchen access card: Taken.
+
+Large Office
+This is a large, plush office. The far wall is one large picture window,
+scratched but unbroken, offering a view of this installation and the ocean
+beyond. In front of the window is a wide wooden desk. The only exit is east.
+
+Opening the large desk reveals a shuttle access card.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>GET ALL FROM DRAWER
+shuttle access card: Taken.
+
+>E.E
+Small Office
+Floyd follows you.
+
+Admin Corridor North
+Floyd follows you.
+
+>S
+You slowly make your way across the swaying ladder. You can see sharp, pointy
+rocks at the bottom of the rift, far below...
+
+Admin Corridor
+Floyd follows you.
+
+>S
+Admin Corridor South
+There is a curved metal bar here.
+Floyd follows you.
+
+>S
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+>W
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+Floyd follows you.
+
+>W
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+>S.GET CANTEEN.SLIDE KITCHEN CARD THROUGH SLOT.S.OPEN CANTEEN.
+Mess Hall
+This is a large hall lined with tables and benches. An opening to the north
+leads back to the corridor. A door to the south is closed. Next to the door is
+a small slot.
+Although the room is quite barren, an octagonally shaped canteen is sitting on
+one of the benches.
+Floyd follows you.
+
+Taken.
+Floyd sings an ancient ballad, totally out of key.
+
+The kitchen door quietly slides open.
+Floyd produces a crayon from one of his compartments and scrawls his name on
+the wall.
+
+Kitchen
+
+Opened.
+
+>PUT CANTEEN UNDER SPOUT.PUSH BUTTON.GET CANTEEN.N.DROP KITCHEN CARD.N.
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+The canteen fills almost to the brim with a brown liquid.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Taken.
+
+Mess Hall
+
+The kitchen door slides quietly closed.
+Floyd follows you.
+
+Dropped.
+
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+>E
+Dorm Corridor
+
+>Z
+Time passes...
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+>E
+Elevator Lobby
+This is a wide, brightly lit lobby. A blue metal door to the north is closed
+and a larger red metal door to the south is also closed. Beside the blue door
+is a blue button, and beside the red door is a red button. A corridor leads
+west. To the east is a small room about the size of a telephone booth.
+Floyd follows you.
+
+>PUSH RED BUTTON
+The red door begins vibrating a bit.
+
+>Z
+Time passes...
+Floyd whistles tunelessly.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+The door at the south end of the room slides open.
+
+>S
+Lower Elevator
+This is a medium-sized room with a door to the north which is open. A control
+panel contains an Up button, a Down button, and a narrow slot.
+Floyd follows you.
+
+>N
+Elevator Lobby
+Floyd follows you.
+
+>PUSH BLUE BUTTON
+You hear a faint whirring noise from behind the blue door.
+Floyd cranes his neck to see what you are doing.
+
+>Z
+Time passes...
+
+The door at the north end of the room slides open.
+
+>N
+Upper Elevator
+You have entered a tiny room with a sliding door to the south which is open. A
+control panel contains an Up button, a Down button, and a narrow slot.
+Floyd follows you.
+
+>SLIDE UPPER CARD THROUGH SLOT.PUSH UP BUTTON
+A recorded voice chimes "Elevator enabled."
+Floyd chants the death scene from "Carmen".
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+>Z.Z
+Time passes...
+Floyd examines himself for signs of rust.
+
+Time passes...
+
+The elevator door slides open.
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+>DRINK LIQUID
+Mmmm....that was good. It certainly quenched your thirst and satisfied your
+hunger.
+Floyd lowers his voice and tells you the latest rumors about Dr. Fizpick.
+
+>Z.
+Time passes...
+
+>Z
+Time passes...
+
+A recording says "Elevator no longer enabled."
+Floyd reminisces about his friend Lazarus, a medical robot.
+
+>S
+Tower Core
+Floyd follows you.
+
+>NE
+Comm Room
+This is a small room with no windows. The sole exit is southwest. Two wide
+consoles fill either end of the room; thick cables lead up into the ceiling.
+
+The console on the left side of the room is labelled "Reeseev Staashun." A
+bright red light, labelled "Tranzmishun Reeseevd", is blinking rapidly. Next
+to the light is a glowing button marked "Mesij Plaabak."
+
+The console on the right side of the room is labelled "Send Staashun." A
+screen on the console displays a message. Next to the screen is a flashing
+sign which says "Malfunkshun in Sendeeng Kuulint Sistum." Next to this console
+is an enunciator. On the console next to the enunciator panel is a
+funnel-shaped hole labelled "Kuulint Sistum Manyuuwul Oovuriid."
+A yellow colored light is flashing on the enunciator panel.
+Floyd follows you.
+
+You begin to feel weary. It might be time to think about finding a nice safe
+place to sleep.
+
+>SW
+Tower Core
+Floyd follows you.
+
+>N
+Upper Elevator
+Floyd follows you.
+
+>SLIDE UPPER CARD THROUGH SLOT.PUSH DOWN BUTTON.Z.Z.S.W.W
+A recorded voice chimes "Elevator enabled."
+Floyd lowers his voice and tells you the latest rumors about Dr. Fizpick.
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+Floyd asks if you want to play Hucka-Bucka-Beanstalk.
+
+Time passes...
+
+The elevator door slides open.
+
+Elevator Lobby
+Floyd follows you.
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+Floyd follows you.
+
+>S.GET ON BED.SLEEP
+Dorm C
+This is a very long room lined with multi-tiered bunks. Flimsy partitions
+between the tiers may have provided a modicum of privacy. These spartan living
+quarters could have once housed many hundreds, but it seems quite deserted
+now. There are openings at the north and south ends of the room.
+Floyd follows you.
+
+Dorm C, in the bed
+There is a multiple purpose robot here. (outside the bed)
+Ahhh...the bed is soft and comfortable. You should be asleep in short order.
+
+You'll probably be asleep before you know it.
+Floyd recalls the time he bruised his knee.
+
+>STAND.GET ALL.N.W.S
+How could you suggest such a thing when you're so tired and this bed is so
+comfy?
+
+You slowly sink into a deep and restful sleep.
+
+***** SEPTEM 7, 11344 *****
+
+You wake up feeling refreshed and ready to face the challenges of this
+mysterious world.
+Floyd bounces impatiently at the foot of the bed. "About time you woke up, you
+lazy bones! Let's explore around some more!"
+
+shuttle access card: Taken.
+canteen: Taken.
+upper elevator access card: Taken.
+
+Dorm Corridor
+Floyd follows you.
+
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+Mess Hall
+There is a kitchen access card here.
+Floyd follows you.
+
+>GET KITCHEN CARD
+Taken.
+Floyd chants the death scene from "Carmen".
+
+>SAVE
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>LADDER.P): KITCH.P.1Ok.
+
+>SLIDE KITCHEN CARD THROUGH SLOT
+The kitchen door quietly slides open.
+
+>S.PUT CANTEEN UNDER SPOUT.PUSH BUTTON.GET CANTEEN.N.DROP KITCHEN CARD
+Kitchen
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+The canteen fills almost to the brim with a brown liquid.
+Floyd absentmindedly recites the first six hundred digits of pi.
+
+Taken.
+
+Mess Hall
+
+The kitchen door slides quietly closed.
+
+Floyd bounces into the room. "Hey, wait for Floyd!" he yells, smiling broadly.
+
+Dropped.
+
+>N.E
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+Dorm Corridor
+Floyd follows you.
+
+>I
+You are carrying:
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  An upper elevator access card
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+Floyd recalls the time he bruised his knee.
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+>S.S.S.
+Mech Corridor North
+Floyd follows you.
+
+Mech Corridor
+Floyd follows you.
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+Mech Corridor South
+
+>DRINK LIQUID
+Mmmm....that was good. It certainly quenched your thirst and satisfied your
+hunger.
+
+>SW
+Tool Room
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+There is a pair of wide-nosed pliers here.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>E
+Machine Shop
+
+>PUT FLASK UNDER SPOUT.PUSH YELLOW BUTTON.GET FLASK.N.N.N.
+You don't have that!
+
+>I
+You are carrying:
+  A canteen
+  An upper elevator access card
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>W
+Tool Room
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+There is a multiple purpose robot here.
+There is a pair of wide-nosed pliers here.
+
+>NE
+Mech Corridor South
+Floyd follows you.
+
+>N
+Mech Corridor
+
+>N
+Mech Corridor North
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>N
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+>W
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+You notice that you feel a bit weak and slightly flushed, but you're not sure
+why.
+
+>W
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>RESTOSRE
+[I don't know the word "restosre."]
+
+>RESTORE
+From file (PS:<LIZ>KITCH.P): KITCH.P.1Ok.
+Mess Hall
+This is a large hall lined with tables and benches. An opening to the north
+leads back to the corridor. A door to the south is closed. Next to the door is
+a small slot.
+There is a multiple purpose robot here.
+
+>I
+You are carrying:
+  A kitchen access card
+  An upper elevator access card
+  A canteen
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>SLIDE KITCHEN CARD THROUGH SLOT.S.PUT CANTEEN UNDER SPOUT.PUSH BUTTON.
+The kitchen door quietly slides open.
+
+Kitchen
+
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+The canteen fills almost to the brim with a brown liquid.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>GET CANTEEN.N.DROP KITCHEN CARD.N.N
+Taken.
+
+Mess Hall
+
+The kitchen door slides quietly closed.
+Floyd follows you.
+
+Dropped.
+
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+Storage West
+On a small shelf is a large, unopened tin can. It has a plain white label
+which reads "Spam and Egz."
+There is a survival kit here.
+The survival kit contains:
+  A blob of green goo
+  A blob of brown goo
+There is a lower elevator access card here.
+There is a glass flask here.
+Floyd follows you.
+
+>GET FLASK,LOWER ELEVATOR CARD
+glass flask: Taken.
+lower elevator access card: Taken.
+Floyd absentmindedly recites the first six hundred digits of pi.
+
+>S.E
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+Dorm Corridor
+Floyd follows you.
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+>DRINK LIQUID
+Mmmm....that was good. It certainly quenched your thirst and satisfied your
+hunger.
+
+>E
+Elevator Lobby
+Floyd follows you.
+
+>W
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+>S.
+Mech Corridor North
+
+>S
+Mech Corridor
+
+>S
+Mech Corridor South
+
+>S
+Machine Shop
+
+>PUT FLASK UNDER SPOUT.PUSH YELLOW BUTTON.GET FLASK.N.N.N.N
+The glass flask is now sitting under the spout.
+
+The flask fills with some yellow chemical fluid. The fluid gradually turns
+milky white.
+
+Taken.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Mech Corridor South
+
+Mech Corridor
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Mech Corridor North
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+>E
+Elevator Lobby
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+You notice that you feel a bit weak and slightly flushed, but you're not sure
+why.
+
+>N
+Upper Elevator
+
+Floyd bounces into the elevator. "Hey, wait for Floyd!" he yells, smiling
+broadly.
+
+>SLIDE UPPER CARD THROUGH SLOT.PUSH UP BUTTON.Z.Z.S.NE.
+A recorded voice chimes "Elevator enabled."
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+Tower Core
+Floyd follows you.
+
+Comm Room
+A yellow colored light is flashing on the enunciator panel.
+Floyd follows you.
+
+>POUR LIQUID IN FUNNEL
+The liquid disappears into the hole. The lights on the enunciator panel blink
+rapidly and all go off except one, a brown light.
+Floyd notices a mouse scurrying by and tries to hide behind you.
+
+>SW.N.PUSH DOWN BUTTON
+Tower Core
+Floyd follows you.
+
+Upper Elevator
+Floyd follows you.
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+>Z.Z
+Time passes...
+Floyd asks if you want to play Hucka-Bucka-Beanstalk.
+
+Time passes...
+Some innocuous Hawaiian music oozes from the elevator's intercom.
+
+The elevator door slides open.
+Floyd produces a crayon from one of his compartments and scrawls his name on
+the wall.
+
+>S.W.S.S.S.
+Elevator Lobby
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+Mech Corridor North
+
+Mech Corridor
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Mech Corridor South
+
+>S
+Machine Shop
+
+>PUT FLASK UNDER SPOUT.PUSH BROWN BUTTON.GET FLASK.N.N.N.N.E.N.
+The glass flask is now sitting under the spout.
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+The flask fills with some brown chemical fluid. The fluid gradually turns
+milky white.
+
+Taken.
+
+Mech Corridor South
+Floyd follows you.
+
+Mech Corridor
+Floyd follows you.
+
+Mech Corridor North
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Elevator Lobby
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Upper Elevator
+
+Floyd bounces into the elevator. "Hey, wait for Floyd!" he yells, smiling
+broadly.
+
+>SLIDE UPPER CARD THROUGH SLOT.PUSH UP BUTTON.Z.Z.S.NE.
+A recorded voice chimes "Elevator enabled."
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+Floyd reminisces about his friend Lazarus, a medical robot.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+Tower Core
+
+Comm Room
+A brown colored light is flashing on the enunciator panel.
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+>POUR LIQUID IN FUNNEL.SW.N.PUSH DOWN BUTTON
+The liquid disappears into the hole. The lights on the enunciator panel blink
+rapidly and then go dark. The coolant system warning light goes off, and
+another flashes, indicating that the help message is now being sent.
+Floyd cranes his neck to see what you are doing.
+
+Tower Core
+Floyd follows you.
+
+Upper Elevator
+Floyd follows you.
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+Floyd examines himself for signs of rust.
+
+>DROP FLASK,UPPER CARD
+glass flask: Dropped.
+upper elevator access card: Dropped.
+Floyd examines himself for signs of rust.
+
+>S
+The door is closed.
+Floyd recalls the time he bruised his knee.
+
+>
+I beg your pardon?
+
+>
+I beg your pardon?
+
+>Z
+Time passes...
+
+The elevator door slides open.
+
+>S
+Elevator Lobby
+Floyd follows you.
+
+>W
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+Floyd follows you.
+
+>S
+Mech Corridor North
+Floyd follows you.
+
+>E
+Storage East
+A small room for storage. The exit is to the west.
+On the floor beneath the shelves sits a small cardboard box.
+The cardboard box contains:
+  A good ninety-ohm bedistor
+  A K-series megafuse
+  A B-series megafuse
+  A cracked seventeen-centimeter fromitz board
+One dusty shelf, otherwise bare, holds a small oil can.
+
+>GET BOX.EMPTY IT.GET GOOD BEDISTOR.PUT IT IN BOX.W.S.
+Taken.
+
+The cardboard box is now empty.
+
+Taken.
+
+Done.
+
+Mech Corridor North
+There is a multiple purpose robot here.
+Floyd absentmindedly recites the first six hundred digits of pi.
+
+Mech Corridor
+
+>S
+Mech Corridor South
+
+>SW
+Tool Room
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+There is a pair of wide-nosed pliers here.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>GET LASER.REMOVE BATTERY.DROP BATTERY.GET PLIERS.PUT PLIERS IN BOX
+Taken.
+Floyd absentmindedly oils one of his joints.
+
+Taken.
+Floyd recalls the time he bruised his knee.
+
+Dropped.
+
+Taken.
+Floyd lowers his voice and tells you the latest rumors about Dr. Fizpick.
+
+Done.
+
+>I
+You are carrying:
+  A laser
+  A cardboard box
+  The cardboard box contains:
+    A pair of wide-nosed pliers
+    A good ninety-ohm bedistor
+  A lower elevator access card
+  A canteen
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+Floyd asks if you want to play Hucka-Bucka-Beanstalk.
+
+>L
+Tool Room
+This is apparently a storage room for tools. Exits lead northeast and east.
+There is a worn-out laser battery here.
+There is a multiple purpose robot here.
+
+>NE
+Mech Corridor South
+Floyd follows you.
+
+>N
+Mech Corridor
+Floyd follows you.
+
+>N
+Mech Corridor North
+
+>N
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+>W
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+>W
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>S.GET KITCHEN CARD.SLIDE KITCHEN CARD THROUGH SLOT.PUT CANTEEN UNDER SPOUT
+Mess Hall
+There is a kitchen access card here.
+
+Taken.
+
+The kitchen door quietly slides open.
+
+You can't see any spout here!
+
+>S.PUT CANTEEN UNDER SPOUT.PUSH BUTTON.GET CANTEEN.N.DROP KITCHEN CARD.
+Kitchen
+
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+The canteen fills almost to the brim with a brown liquid.
+
+Your load is too heavy.
+
+Mess Hall
+
+The kitchen door slides quietly closed.
+
+Dropped.
+
+>S
+The door is closed.
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+>GET KITCHEN CARD
+Taken.
+Floyd produces a crayon from one of his compartments and scrawls his name on
+the wall.
+
+>SLIDE KITCHEN CARD THROUGH SLOT
+The kitchen door quietly slides open.
+Floyd bobs up and down with excitement. "Those cards are really neat! Floyd
+has one, too." He begins searching through his compartments, but finds
+nothing. He scratches his head and looks confused.
+
+>I
+You are carrying:
+  A kitchen access card
+  A laser
+  A cardboard box
+  The cardboard box contains:
+    A pair of wide-nosed pliers
+    A good ninety-ohm bedistor
+  A lower elevator access card
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>DROP BOX
+Dropped.
+
+>S
+Kitchen
+The dispenser unit contains:
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+Floyd follows you.
+
+>GET CANTEEN
+Taken.
+Floyd notices a mouse scurrying by and tries to hide behind you.
+
+>N
+Mess Hall
+There is a cardboard box here.
+The cardboard box contains:
+  A pair of wide-nosed pliers
+  A good ninety-ohm bedistor
+
+The kitchen door slides quietly closed.
+
+Floyd bounces into the room. "Hey, wait for Floyd!" he yells, smiling broadly.
+
+>DROP KITCHEN CAR
+You don't have that!
+
+>DROP KITCHEN CARD
+Dropped.
+
+>PUT LOWER CARD IN POCKET
+Done.
+Floyd reminisces about his friend Lazarus, a medical robot.
+
+>GET VOX
+[I don't know the word "vox."]
+
+>OOPS BOX
+Taken.
+
+>N
+Mess Corridor
+There is a key here.
+There is a padlock here.
+Floyd follows you.
+
+>E
+Dorm Corridor
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+There is a Patrol-issue self-contained multi-purpose scrub brush here.
+There is a diary here.
+There is a towel here.
+
+>E
+Elevator Lobby
+
+>S
+Lower Elevator
+
+Floyd bounces into the elevator. "Hey, wait for Floyd!" he yells, smiling
+broadly.
+
+>SLIDE LOWER CARD THROUGH SLOT
+A sign flashes "Magnetik striip randumiizd...konsult Prajekt Handbuk abowt
+propur kaar uv awtharazaashun kardz."
+
+>RESTORE
+Floyd looks disappointed, but understanding. "That part of the game was more
+fun than this part," he admits.
+
+From file (PS:<LIZ>KITCH.P): KEY.P.1Ok.
+Admin Corridor South
+This section of hallway seems to have suffered some minor structural damage.
+The walls are cracked, and a jagged crevice crosses the floor. An opening
+leads east and the corridor heads north and south.
+
+>I
+You are carrying:
+  A glass flask
+  A curved metal bar
+  A lower elevator access card
+  A survival kit
+  The survival kit contains:
+    A blob of green goo
+    A blob of brown goo
+    A blob of red goo
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>RESTORE
+From file (PS:<LIZ>KEY.P): Failed.
+
+>RESTORE
+From file (PS:<LIZ>KEY.P): UP.P.1Ok.
+Underwater
+You are momentarily disoriented as you enter the turbulent waters. Currents
+buffet you against the sharp rocks of an underwater cliff. A dim light filters
+down from above.
+
+>U
+Crag
+
+>U
+Balcony
+This is an octagonal room, half carved into and half built out from the cliff
+wall. Through the shattered windows which ring the outer wall you can see
+ocean to the horizon. A weathered metal plaque with barely readable lettering
+rests below the windows. The language seems to be a corrupt form of
+Galalingua. A steep stairway, roughly cut into the face of the cliff, leads
+upward. A rocky crag can be seen about eight meters below.
+
+>U
+Winding Stair
+The middle of a long, steep stairway carved into the face of a cliff.
+
+>U
+Courtyard
+You are in the courtyard of an ancient stone edifice, vaguely reminiscent of
+the castles you saw during your leave on Ramos Two. It has decayed to the
+point where it can probably be termed a ruin. Openings lead north and west,
+and a stairway downward is visible to the south. 
+
+>N
+Plain Hall
+This is a featureless hall leading north and south. Although the hallway is
+old and dusty, the construction is of a much more modern style than the castle
+to the south. A similar hall branches off to the northeast.
+
+>NE
+Rec Corridor
+This is a wide, east-west hallway. Portals lead north and south, and another
+corridor branches southwest.
+
+>E
+Mess Corridor
+This is a wide, east-west hallway with a large portal to the south. A small
+door to the north is closed and hooked with a simple steel padlock which is
+also closed.
+
+>I
+You are carrying:
+  A survival kit
+  A towel
+  A diary
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+  A Patrol-issue self-contained multi-purpose scrub brush
+
+>W
+Rec Corridor
+
+>DROP TOWEL,DIARY,BRUSH
+towel: Dropped.
+diary: Dropped.
+Patrol-issue self-contained multi-purpose scrub brush: Dropped.
+
+>E
+Mess Corridor
+
+>E
+Dorm Corridor
+This is a wide, east-west hallway with openings to the north and south. To the
+east, the corridor stretches off into the distance. That section of the
+hallway is lined with a motorized walkway (no longer running) that was
+probably intended to transport people or cargo down that tremendously long
+hall.
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+A north-south corridor intersects the main corridor here. To the west, the
+main corridor extends as far as you can see; a nonworking walkway from that
+direction ends here. To the east, the corridor widens into a well-lit area.
+
+>S
+Mech Corridor North
+Entrances to rooms lie to the east and west from this north-south hall.
+
+>S
+Mech Corridor
+Entrances to rooms lie to the east and west from this north-south hall.
+
+>S.SW.GET MAGNET
+Mech Corridor South
+The corridor ends here with doorways to the southwest, south, and southeast.
+
+Tool Room
+This is apparently a storage room for tools. Exits lead northeast and east.
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+On an upper shelf is a metal bar, curved into a U-shape.
+Sitting on the floor below the lowest shelf is a large glass flask.
+There is a pair of wide-nosed pliers here.
+
+Taken.
+
+>I
+You are carrying:
+  A curved metal bar
+  A survival kit
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>NE.N
+Mech Corridor South
+
+Mech Corridor
+
+>N
+Mech Corridor North
+
+>N
+Corridor Junction
+
+>N
+Admin Corridor South
+This section of hallway seems to have suffered some minor structural damage.
+The walls are cracked, and a jagged crevice crosses the floor. An opening
+leads east and the corridor heads north and south.
+You catch, out of the corner of your eye, a glint of light from the direction
+of the floor.
+
+>SAVE
+To file (PS:<LIZ>UP.P): KEY.P.2Ok.
+
+>PUT MAGNET NEAR CRACK.DROP MAGNET.S.W.W.SAVE
+With a spray of dust and a loud clank, a piece of metal leaps from the crevice
+and affixes itself to the magnet. It is a steel key! With a tug, you remove
+the key from the magnet.
+
+Dropped.
+
+Corridor Junction
+
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+Mess Corridor
+
+To file (PS:<LIZ>KEY.P): LOCK.P.2Ok.
+
+>UNLOCK LOCK WITH KEY.GET LOCK.DROP LOCK,KEY.OPEN DOOR.N.OPEN KIT.
+The padlock springs open.
+
+Taken.
+
+padlock: Dropped.
+key: Dropped.
+
+Opened.
+
+Storage West
+A heavy-duty extendable ladder is leaning against the rear wall.
+On a small shelf is a large, unopened tin can. It has a plain white label
+which reads "Spam and Egz."
+
+Opening the survival kit reveals a blob of green goo, a blob of brown goo, and
+a blob of red goo.
+
+>DROP ALL THEN GET LADDER
+survival kit: Dropped.
+Patrol uniform: You'll have to take it off, first.
+chronometer: You'll have to take it off, first.
+
+Taken.
+
+>S
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>E
+Dorm Corridor
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+>W.W
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>N
+Storage West
+On a small shelf is a large, unopened tin can. It has a plain white label
+which reads "Spam and Egz."
+There is a survival kit here.
+The survival kit contains:
+  A blob of green goo
+  A blob of brown goo
+  A blob of red goo
+
+>GET KIT
+Your load is too heavy.
+
+>DROP LADDER
+Dropped.
+
+>GET KIT
+Taken.
+
+>EAT RED GOO
+Mmmm...that tasted just like scrumptious cherry pie.
+
+>DROP KIT THEN GET LADDER
+Dropped.
+
+Taken.
+
+>S.E
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+Dorm Corridor
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+
+>N
+Admin Corridor South
+There is a curved metal bar here.
+
+>N.SAVE
+Admin Corridor
+The hallway, in fact the entire building, has been rent apart here, presumably
+by seismic upheaval. You can see the sky through the severed roof above, and
+the ground is thick with rubble. To the north is a gaping rift, at least eight
+meters across and thirty meters deep. A wide doorway, labelled "Sistumz
+Moniturz," leads west.
+
+To file (PS:<LIZ>LOCK.P): LADDER.P.2Ok.
+
+>DROP LADDER.EXTEND IT.PUT LADDER ACROSS RIFT.N.W.OPEN DRAWER
+Dropped.
+
+The ladder extends to a length of around eight meters.
+
+The ladder swings out across the rift and comes to rest on the far edge,
+spanning the precipice.
+
+You slowly make your way across the swaying ladder. You can see sharp, pointy
+rocks at the bottom of the rift, far below...
+
+Admin Corridor North
+
+Small Office
+You have entered a small office of some sort. A small desk faces the main
+doorway which lies to the east. Another exit leads west.
+
+Opening the small desk reveals a upper elevator access card, and a kitchen
+access card.
+
+>GET ALL FROM DRAWER.W.OPEN DRAWER.GET ALL FROM DRAWER.E.E.S
+upper elevator access card: Taken.
+kitchen access card: Taken.
+
+Large Office
+This is a large, plush office. The far wall is one large picture window,
+scratched but unbroken, offering a view of this installation and the ocean
+beyond. In front of the window is a wide wooden desk. The only exit is east.
+
+Opening the large desk reveals a shuttle access card.
+
+shuttle access card: Taken.
+
+Small Office
+
+Admin Corridor North
+
+You slowly make your way across the swaying ladder. You can see sharp, pointy
+rocks at the bottom of the rift, far below...
+
+Admin Corridor
+
+>W
+Systems Monitors
+This is a large room filled with tables full of strange equipment. The far
+wall is filled with a number of monitors. Of these, the ones labelled
+LIIBREREE, REEAKTURZ, and LIIF SUPORT are green, but the ones labelled
+PLANATEREE DEFENS, PLANATEREE KORS KUNTROOL, KUMUUNIKAASHUNZ, and PRAJEKT
+KUNTROOL indicate a malfunctioning condition.
+
+>E
+Admin Corridor
+
+>S
+Admin Corridor South
+There is a curved metal bar here.
+
+>S
+Corridor Junction
+
+>W
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+>W
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>S.GET CANTEEN.SLIDE KITCHEN CARD THROUGH SLOT.S.PUT CANTEEN UNDER SPOUT
+Mess Hall
+This is a large hall lined with tables and benches. An opening to the north
+leads back to the corridor. A door to the south is closed. Next to the door is
+a small slot.
+Although the room is quite barren, an octagonally shaped canteen is sitting on
+one of the benches.
+
+Taken.
+
+The kitchen door quietly slides open.
+
+Kitchen
+
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+>PUSH BUTTON.GET CANTEEN.N.DROP KITCHEN CARD.
+A thick, brown liquid spills over the closed canteen, dribbles down the side
+of the machine, and forms a puddle on the floor which quickly dries up.
+
+Taken.
+
+Mess Hall
+
+The kitchen door slides quietly closed.
+
+Dropped.
+
+>N
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>N
+Storage West
+On a small shelf is a large, unopened tin can. It has a plain white label
+which reads "Spam and Egz."
+There is a survival kit here.
+The survival kit contains:
+  A blob of green goo
+  A blob of brown goo
+
+>GET KIT
+Taken.
+
+>S
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>E
+Dorm Corridor
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+
+>E
+Elevator Lobby
+This is a wide, brightly lit lobby. A blue metal door to the north is closed
+and a larger red metal door to the south is also closed. Beside the blue door
+is a blue button, and beside the red door is a red button. A corridor leads
+west. To the east is a small room about the size of a telephone booth.
+
+>PUSH BLUE BUTTON.Z.Z
+You hear a faint whirring noise from behind the blue door.
+
+Time passes...
+
+Time passes...
+
+The door at the north end of the room slides open.
+
+>N
+Upper Elevator
+You have entered a tiny room with a sliding door to the south which is open. A
+control panel contains an Up button, a Down button, and a narrow slot.
+
+>SLIDE UPPER CARD THROUGH SLOT
+A recorded voice chimes "Elevator enabled."
+
+>PUSH UP BUTTON.Z.Z.S.NE.
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+Some innocuous Hawaiian music oozes from the elevator's intercom.
+
+You begin to feel weary. It might be time to think about finding a nice safe
+place to sleep.
+
+Time passes...
+
+The elevator door slides open.
+
+Tower Core
+
+Comm Room
+This is a small room with no windows. The sole exit is southwest. Two wide
+consoles fill either end of the room; thick cables lead up into the ceiling.
+
+The console on the left side of the room is labelled "Reeseev Staashun." A
+bright red light, labelled "Tranzmishun Reeseevd", is blinking rapidly. Next
+to the light is a glowing button marked "Mesij Plaabak."
+
+The console on the right side of the room is labelled "Send Staashun." A
+screen on the console displays a message. Next to the screen is a flashing
+sign which says "Malfunkshun in Sendeeng Kuulint Sistum." Next to this console
+is an enunciator. On the console next to the enunciator panel is a
+funnel-shaped hole labelled "Kuulint Sistum Manyuuwul Oovuriid."
+A yellow colored light is flashing on the enunciator panel.
+
+>SW
+Tower Core
+
+>N.PUSH DOWN BUTTON.Z.Z.S.W
+Upper Elevator
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+Elevator Lobby
+
+Corridor Junction
+
+>EAT GREEN GOO
+Mmmm...that tasted just like yummy lima beans.
+
+>W
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+You're really tired now. You'd better find a place to sleep real soon.
+
+>S
+Dorm C
+This is a very long room lined with multi-tiered bunks. Flimsy partitions
+between the tiers may have provided a modicum of privacy. These spartan living
+quarters could have once housed many hundreds, but it seems quite deserted
+now. There are openings at the north and south ends of the room.
+
+>GET ON BED
+Dorm C, in the bed
+Ahhh...the bed is soft and comfortable. You should be asleep in short order.
+
+>SLEEP
+You'll probably be asleep before you know it.
+
+>Z
+Time passes...
+
+You slowly sink into a deep and restful sleep.
+
+...You gulp down the last of your Ramosian Fire Nectar and ask the
+andro-waiter for another pitcher. This pub makes the finest Nectar on all of
+Ramos Two, and you and your shipmates are having a pretty rowdy time. Through
+the windows of the pub you can see a mighty, ancient castle, shining in the
+light of the three Ramosian moons. The Fire Nectar spreads through your blood
+and you begin to feel drowsy...
+
+***** SEPTEM 7, 11344 *****
+
+You wake up feeling refreshed and ready to face the challenges of this
+mysterious world.
+
+>STAND.GET ALL.N.
+Dorm C
+There is a shuttle access card here.
+There is a canteen here.
+There is a survival kit here.
+The survival kit contains:
+  A blob of brown goo
+There is an upper elevator access card here.
+You're on your own feet again.
+
+shuttle access card: Taken.
+canteen: Taken.
+survival kit: Taken.
+upper elevator access card: Taken.
+
+Dorm Corridor
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+
+>S.S.S.SW.GET FLASK.E
+Mech Corridor North
+
+Mech Corridor
+
+Mech Corridor South
+
+Tool Room
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+Sitting on the floor below the lowest shelf is a large glass flask.
+There is a pair of wide-nosed pliers here.
+
+Taken.
+
+Machine Shop
+This room is probably some sort of machine shop filled with a variety of
+unusual machines. Doorways lead north, east, and west.
+
+Standing against the rear wall is a large dispensing machine with a spout. The
+dispenser is lined with brightly colored buttons. The first four buttons,
+labelled "KUULINTS 1 - 4", are colored red, blue, green, and yellow. The next
+three buttons, labelled "KATALISTS 1 - 3", are colored gray, brown, and black.
+The last two buttons are both white. One of these is square and says "BAAS."
+The other white button is round and says "ASID."
+
+>PUT FLASK UNDER SPOUT.PUSH YELLOW BUTTON.GET FLASK.N.N.N.N.E.N.
+The glass flask is now sitting under the spout.
+
+The flask fills with some yellow chemical fluid. The fluid gradually turns
+milky white.
+
+Taken.
+
+Mech Corridor South
+
+Mech Corridor
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+Mech Corridor North
+
+Corridor Junction
+
+Elevator Lobby
+
+Upper Elevator
+
+>EAT BLUE GOO
+You can't see any blue goo here!
+
+>I
+You are carrying:
+  A glass flask
+  The glass flask contains:
+    A quantity of chemical fluid
+  An upper elevator access card
+  A survival kit
+  The survival kit contains:
+    A blob of brown goo
+  A canteen
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>EAT BROWN GOO
+Mmmm...that tasted just like delicious Nebulan fungus pudding.
+
+>SLIDE UPPER CARD THROUGH SLOT.PUSH UP BUTTON.Z.Z.S.NE.
+A recorded voice chimes "Elevator enabled."
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+Tower Core
+
+Comm Room
+A yellow colored light is flashing on the enunciator panel.
+
+>POUR LIQUID IN FUNNEL.SW.N.PUSH DOWN BUTTON.Z.Z.S.W.S.S.S.S.
+The liquid disappears into the hole. The lights on the enunciator panel blink
+rapidly and all go off except one, a brown light.
+
+Tower Core
+
+You notice that you feel a bit weak and slightly flushed, but you're not sure
+why.
+
+Upper Elevator
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+Some innocuous Hawaiian music oozes from the elevator's intercom.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+Elevator Lobby
+
+Corridor Junction
+
+Mech Corridor North
+
+Mech Corridor
+
+Mech Corridor South
+
+Machine Shop
+
+>PUT FLASK UNDER SPOUT.PUSH BROWN BUTTON.GET FLASK.N.N.N.N.E.N.
+The glass flask is now sitting under the spout.
+
+The flask fills with some brown chemical fluid. The fluid gradually turns
+milky white.
+
+Taken.
+
+Mech Corridor South
+
+Mech Corridor
+
+Mech Corridor North
+
+Corridor Junction
+
+Elevator Lobby
+
+Upper Elevator
+
+>SLIDE UPPER CARD THROUGH SLOT.PUSH UP BUTTON.Z.Z.S.NE.DROP KIT
+A recorded voice chimes "Elevator enabled."
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+Tower Core
+
+Comm Room
+A brown colored light is flashing on the enunciator panel.
+
+Dropped.
+
+>POUR LIQUID IN FUNNEL
+The liquid disappears into the hole. The lights on the enunciator panel blink
+rapidly and then go dark. The coolant system warning light goes off, and
+another flashes, indicating that the help message is now being sent.
+
+>SW.N.PUSH DOWN BUTTON.Z.Z
+Tower Core
+
+Upper Elevator
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+
+Time passes...
+
+Time passes...
+
+The elevator door slides open.
+
+>S
+Elevator Lobby
+
+>I
+You are carrying:
+  An upper elevator access card
+  A glass flask
+  A canteen
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>N
+Upper Elevator
+
+>DROP UPPER CARD,FLASK
+upper elevator access card: Dropped.
+glass flask: Dropped.
+
+A recording says "Elevator no longer enabled."
+
+>S
+Elevator Lobby
+
+>W.S.E
+Corridor Junction
+
+Mech Corridor North
+
+Storage East
+A small room for storage. The exit is to the west.
+On the floor beneath the shelves sits a small cardboard box.
+The cardboard box contains:
+  A good ninety-ohm bedistor
+  A K-series megafuse
+  A B-series megafuse
+  A cracked seventeen-centimeter fromitz board
+One dusty shelf, otherwise bare, holds a small oil can.
+
+>GET BOX.EMPTY IT.GET GOOD BEDISTOR.PUT IT IN BOX.W.S.
+Taken.
+
+The cardboard box is now empty.
+
+Taken.
+
+Done.
+
+Mech Corridor North
+
+Mech Corridor
+
+>S.SE.SEARCH ROBOT.TURN IT ON.W.W.W.GET PLIERS.PUT PLIERS IN BOX.
+Mech Corridor South
+
+Robot Shop
+This room, with exits west and northwest, is filled with robot-like devices of
+every conceivable description, all in various states of disassembly.
+Only one robot, about four feet high, looks even remotely close to being in
+working order.
+
+In one of the robot's compartments you find and take a magnetic-striped card
+embossed "Loowur Elavaatur Akses Kard."
+
+Nothing happens.
+
+Machine Shop
+
+Tool Room
+A small device, labelled "Akmee Portabul Laazur", is resting on one of the
+lower shelves.
+The laser contains:
+  An old battery
+There is a pair of wide-nosed pliers here.
+
+You can't go that way.
+
+The robot you were fiddling with in the Robot Shop bounds into the room. "Hi!"
+he says, with a wide and friendly smile. "You turn Floyd on? Be Floyd's
+friend, yes?"
+
+>GET PLIERS.
+Taken.
+
+>PUT PLIERS IN BOX.GET LASER.REMOVE BATTERY.DROP BATTERY
+Done.
+Floyd examines himself for signs of rust.
+
+Taken.
+Floyd absentmindedly oils one of his joints.
+
+Taken.
+
+Dropped.
+
+>I
+You are carrying:
+  A laser
+  A lower elevator access card
+  A cardboard box
+  The cardboard box contains:
+    A pair of wide-nosed pliers
+    A good ninety-ohm bedistor
+  A canteen
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+Floyd recalls the time he bruised his knee.
+
+>NE.N.N.
+Mech Corridor South
+
+Mech Corridor
+
+Mech Corridor North
+
+>N.W
+Corridor Junction
+
+You walk down the long, featureless hallway for a long time. Finally, you see
+some doorways ahead...
+
+Dorm Corridor
+
+>W
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+>S.GET KITCHEN CARD.SLIDE KITCHEN CARD THROUGH SLOT.S.PUT CANTEEN UNDER SPOUT
+Mess Hall
+There is a kitchen access card here.
+
+Taken.
+
+The kitchen door quietly slides open.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+Kitchen
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+A growl from your stomach warns that you're getting pretty hungry and thirsty.
+
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+>PUSH BUTTON.GET CANTEEN.DRINK LIQUID.
+A thick, brown liquid spills over the closed canteen, dribbles down the side
+of the machine, and forms a puddle on the floor which quickly dries up.
+
+Taken.
+
+You can't see any liquid here!
+
+>OPEN CANTEEN.PUT CANTEEN UNDER SPOUT.PUSH BUTTON.GET CANTEEN.
+Opened.
+
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+Floyd paces impatiently.
+
+The canteen fills almost to the brim with a brown liquid.
+Floyd absentmindedly recites the first six hundred digits of pi.
+
+Your load is too heavy.
+Floyd recalls the time he bruised his knee.
+
+>DROP BOX THEN GET CANTEEN
+Dropped.
+
+Taken.
+Floyd whistles tunelessly.
+
+>DRINK LIQUID
+Mmmm....that was good. It certainly quenched your thirst and satisfied your
+hunger.
+
+>PUT CANTEEN UNDER SPOUT.PUSH BUTTON.GET CANTEEN.
+The canteen fits snugly into the octagonal niche, its mouth resting just below
+the spout of the machine.
+
+The canteen fills almost to the brim with a brown liquid.
+Floyd rubs his head affectionately against your shoulder.
+
+Taken.
+
+>GET BOX
+Your load is too heavy.
+Floyd tells you about the time he helped someone sharpen a pencil.
+
+>I
+You are carrying:
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  A kitchen access card
+  A laser
+  A lower elevator access card
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>N.DROP BOX.SLIDE KITCHEN CARD THROUGH SLOT.S.GET CANTEEN.N.DROP KITCHEN CARD
+Mess Hall
+Floyd follows you.
+
+The kitchen door slides quietly closed.
+
+You don't have that!
+
+>DROP CANTEEN.SLIDE KITCHEN CARD THROUGH SLOT.S.GET BOX.N.
+Dropped.
+Floyd whistles tunelessly.
+
+The kitchen door quietly slides open.
+Floyd whistles tunelessly.
+
+Kitchen
+There is a cardboard box here.
+The cardboard box contains:
+  A pair of wide-nosed pliers
+  A good ninety-ohm bedistor
+Floyd follows you.
+
+Taken.
+
+Mess Hall
+There is a canteen here.
+The canteen contains:
+  A quantity of protein-rich liquid
+Floyd follows you.
+
+The kitchen door slides quietly closed.
+
+>DROP KITCHEN CARD.GET CANTEEN
+Dropped.
+
+Taken.
+
+>E
+You can't go that way.
+
+Floyd says "Floyd going exploring. See you later." He glides out of the room.
+
+>N
+Mess Corridor
+There is a key here.
+There is a padlock here.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+>E
+Dorm Corridor
+
+>E
+You walk down the long, featureless hallway for a long time. Finally, you see
+an intersection ahead...
+
+Corridor Junction
+
+>E
+Elevator Lobby
+
+>S
+The door is closed.
+
+>PUSH RED BUTTON
+The red door begins vibrating a bit.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+The door at the south end of the room slides open.
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+>S.SAVE
+Lower Elevator
+This is a medium-sized room with a door to the north which is open. A control
+panel contains an Up button, a Down button, and a narrow slot.
+
+Floyd bounces into the elevator. "Hey, wait for Floyd!" he yells, smiling
+broadly.
+
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>LADDER.P): LOWER.P.1Ok.
+
+>SLIDE LOWER CARD THROUGH SLOT.PUSH DOWN BUTTON.Z.Z
+A recorded voice chimes "Elevator enabled."
+
+The elevator door slides shut. After a moment, you feel a sensation of
+vertical movement.
+Floyd yawns and looks bored.
+
+Time passes...
+Floyd absentmindedly recites the first six hundred digits of pi.
+
+Time passes...
+
+>Z
+Time passes...
+
+The elevator door slides open.
+Floyd frets about the possibility of his batteries failing.
+
+>N
+Waiting Area
+This is a concrete platform sparsely furnished with benches. The platform
+continues to the east, and to the south is a metal door.
+Floyd follows you.
+
+>N
+You can't go that way.
+Floyd recalls the time he bruised his knee.
+
+>E
+Kalamontee Platform
+Floyd follows you.
+
+>S
+Shuttle Car Alfie
+This is the cabin of a large transport, with seating for around 20 people plus
+space for freight. There are open doors at the eastern and western ends of the
+cabin, and a doorway leads out to a wide platform to the north.
+Floyd follows you.
+
+>E
+Alfie Control East
+This is a small control cabin. A control panel contains a slot, a lever, and a
+display. The lever can be set at a central position, or it could be pushed up
+to a position labelled "+", or pulled down to a position labelled "-". It is
+currently at the center setting. The display, a digital readout, currently
+reads 0. Through the cabin window you can see parallel rails running along the
+floor of a long tunnel, vanishing in the distance.
+Floyd follows you.
+
+>SAVE
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>LOWER.P): ALFIE.P.1Ok.
+
+>SLIDE SHUTTLE CARD THROUGH SLOT
+A recording of a deep male voice says "Shuttle controls activated."
+
+>PUSH LEVER UP.Z.Z.Z.Z.Z.Z.Z.Z.PUSH LEVER DOWN.Z.Z.Z.Z.Z.Z
+The lever is now in the upper position.
+The control cabin door slides shut and the shuttle car begins to move forward!
+The display changes to 5.
+Floyd notices a mouse scurrying by and tries to hide behind you.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 10.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 15.
+You pass a sign which says "Limit 45."
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 20.
+Floyd wanders restlessly around the room.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 25.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 30.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 35.
+Floyd paces impatiently.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 40.
+Floyd frets about the possibility of his batteries failing.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 45.
+Floyd wanders restlessly around the room.
+
+The lever is now in the central position.
+The shuttle car continues to move. The display still reads 45.
+Floyd notices a mouse scurrying by and tries to hide behind you.
+
+Time passes...
+The shuttle car continues to move. The display still reads 45.
+
+Time passes...
+The shuttle car continues to move. The display still reads 45.
+Floyd sings an ancient ballad, totally out of key.
+
+Time passes...
+The shuttle car continues to move. The display still reads 45.
+The tunnel levels out and begins to slope upward. A sign flashes by which
+reads "Hafwaa Mark -- Beegin Deeseluraashun."
+
+Time passes...
+The shuttle car continues to move. The display still reads 45.
+
+Time passes...
+The shuttle car continues to move. The display still reads 45.
+
+Time passes...
+The shuttle car continues to move. The display still reads 45.
+
+>PUSH LEVER DOWN.Z.Z.Z.Z.Z.Z.Z.Z
+The lever is now in the lower position.
+The shuttle car continues to move. The display blinks, and now reads 40.
+Floyd absentmindedly recites the first six hundred digits of pi.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 35.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 30.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 25.
+Floyd rubs his head affectionately against your shoulder.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 20.
+You pass a sign, surrounded by blinking red lights, which says "15."
+Floyd lowers his voice and tells you the latest rumors about Dr. Fizpick.
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 15.
+You pass a sign, surrounded by blinking red lights, which says "10."
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 10.
+You pass a sign, surrounded by blinking red lights, which says "5."
+
+Time passes...
+The shuttle car continues to move. The display blinks, and now reads 5.
+The shuttle car is approaching a brightly lit area. As you near it, you make
+out the concrete platforms of a shuttle station.
+
+Time passes...
+The shuttle car glides into the station and comes to rest at the concrete
+platform. You hear the cabin doors slide open.
+
+>W.N.
+Shuttle Car Alfie
+Floyd follows you.
+
+Lawanda Platform
+Floyd follows you.
+
+>E
+Escalator
+You are in the middle of a long mechanical stairway. It is not running, and
+seems to be in disrepair.
+
+>E
+Fork
+This is a hallway which forks to the northeast and southeast. To the west is
+the top of a long escalator.
+
+You notice that you feel unusually weak, and you suspect that you have a fever.
+
+>NE
+Systems Corridor West
+The corridor bends here, leading east and southwest. A doorway opens to the
+northwest, and a narrow stairway leads down to the north.
+
+>N
+Repair Room
+You are in a dimly lit room, filled with strange machines and wide storage
+cabinets, all locked. To the south, a narrow stairway leads upward. On the
+north wall of the room is a very small doorway.
+Lying face down at the bottom of the stairs is a motionless robot. It appears
+to be damaged beyond repair.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+Floyd points at the fallen robot. "That's Achilles. He was in charge of
+repairing machinery. He repaired Floyd once. I never liked him much; he wasn't
+friendly like other robots. Looks like he fell down the stairs. He always had
+trouble with one of his feet working right. A Planner-person once told me
+that's why they named him Achilles."
+
+>SAVE
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>ALFIE.P): ACHILLES.P.1Ok.
+
+>FLOYD, GO NORTH
+Floyd squeezes through the opening and is gone for quite a while. You hear
+thudding noises and squeals of enjoyment. After a while the noise stops, and
+Floyd emerges, looking downcast. "Floyd found a rubber ball inside. Lots of
+fun for a while, but must have been old, because it fell apart. Nothing else
+interesting inside. Just a shiny fromitz board."
+
+>FLOYD, GET SHINY BEDISTOR
+The multiple purpose robot seems confused. "I don't see any shiny bedistor
+here!"
+
+>FLOYD, GET SHINY FROMITZ BOARD
+Floyd shrugs. "If you say so." He vanishes for a few minutes, and returns
+holding the fromitz board. It seems to be in good shape. He tosses it toward
+you, and you just manage to catch it before it smashes.
+
+>S.E.N
+Systems Corridor West
+
+Systems Corridor
+This section of hallway has a doorway to the north labelled "Planateree
+Deefens." The corridor continues east and west.
+
+Planetary Defense
+This room is filled with a dazzling array of lights and controls. One light,
+blinking quickly, catches your eye. It reads "Surkit Boord Faalyur. WORNEENG:
+xis boord kuntroolz xe diskriminaashun surkits." There is a small access panel
+on one wall which is closed.
+
+>SAVE
+To file (PS:<LIZ>ACHILLES.P): PD.P.1Ok.
+
+>OPEN PANEL
+The panel swings open.
+The access panel contains:
+  A second seventeen-centimeter fromitz board
+  A third seventeen-centimeter fromitz board
+  A fourth seventeen-centimeter fromitz board
+  A first seventeen-centimeter fromitz board
+
+>GET SECOND BOARD.PUT SHINY BOARD IN SOCKET.CLOSE PANEL.DROP BOARD
+The fromitz board slides out of the panel, producing an empty socket for
+another board.
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+The card clicks neatly into the socket. The warning lights stop flashing.
+
+The panel swings closed.
+
+Dropped.
+Floyd paces impatiently.
+
+>S.E.N
+Systems Corridor
+Floyd follows you.
+
+Systems Corridor East
+The hallway ends here with a large doorway leading east, and smaller doorways
+to the north and south. The northern doorway is labelled "Planateree Kors
+Kontrool." The hallway itself leads west.
+Floyd follows you.
+
+Course Control
+This is a long room whose walls are covered with complicated controls and
+colored lights. Two of these lights are blinking. The first one reads
+"Bedistur Faalyur!" The other light reads "Kritikul diivurjins frum pland
+kors." In one corner is a large metal cube whose lid is closed.
+Floyd follows you.
+
+>OPEN CUBE
+The lid swings open.
+The large metal cube contains:
+  A fused ninety-ohm bedistor
+Floyd frets about the possibility of his batteries failing.
+
+>GET FUSED BEDISTOR WITH PLIERS
+With a tug, you manage to remove the fused bedistor.
+Floyd frets about the possibility of his batteries failing.
+
+>PUT GOOD BEDISTOR IN CUBE
+Done. The warning lights go out and another light goes on.
+
+>CLOSE CUBE
+The lid swings closed.
+
+>DROP PLIERS
+Dropped.
+
+>S
+Systems Corridor East
+Floyd follows you.
+
+>S
+Library Lobby
+This is a carpeted room, thick with dust, with exits to the north and south.
+To the west, up a few steps, is a wide doorway. A small booth lies to the east.
+Sitting on a wide table is a machine of sorts, consisting of a video screen
+and a keyboard. It is currently turned off.
+You catch a glimpse of a small object nestled among the dust.
+
+>S
+Project Corridor East
+The hallway ends here but continues back toward the west. Doorways lead north,
+south and east.
+
+>E
+Main Lab
+This is the heart of the Project's vast laboratory complex. There are exits to
+the west and southwest, and heavy metal doors to the northeast and southeast.
+A small doorway leads south.
+
+>S
+Lab Storage
+This is a tiny room for the storage of laboratory supplies. The sole exit is
+to the north.
+The odds and ends on the shelves include a small round object, which closer
+inspection reveals to be a fresh laser battery.
+Hanging on a rack is a pale blue lab uniform. Sewn onto its pocket is a
+nondescript logo.
+
+>SAVE
+To file (PS:<LIZ>PD.P): LAB.P.1Ok.
+
+>GET BATTERY.PUT IT IN LASER
+Taken.
+
+The battery is now resting in the depression, attached to the laser.
+
+>OPEN LAB POCKET
+You discover a small piece of paper and a teleportation access card in the
+pocket of the uniform.
+
+>DROP SHUTTLE CARD, LOWER CARD
+shuttle access card: Dropped.
+lower elevator access card: Dropped.
+
+>GET TELEPORTATION CARD
+Taken.
+
+>READ PAPER
+(Taking the piece of paper first)
+Week uv 14-Juun--2882. Kombinaashun tuu Konfurins Ruum: 651.
+
+>N.SW
+Main Lab
+
+Computer Room
+This is the main computer room for the Project. The only sign of activity is a
+glowing red light. The exits are north, west, and northeast. To the south is a
+small booth.
+There is a pile of computer output here.
+
+>READ OUTPUT
+The printout is hundreds of pages long. It would take many chrons to read it
+all. The last page looks pretty interesting, though:
+
+"Daalee Statis Reeport:
+PREELIMINEREE REESURC:  100.000%
+INTURMEEDEEIT REESURC:  100.000%
+FIINUL REESURC:         100.000%
+DRUG PROODUKSHUN:       100.000%
+DRUG TESTEENG:           99.985%
+Proojektid tiim tuu reeviivul prooseedzur:  0 daaz, 0.8 kronz
+
+
+*** ALURT! ALURT! ***
+Malfunkshun in Sekshun 384! Sumuneeng reepaar roobot."
+
+The printout ends at this point.
+
+>SAVE
+To file (PS:<LIZ>LAB.P): OUTPUT.P.1Ok.
+
+>Z
+Time passes...
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+Floyd examines the glowing light. With a concerned frown, he says, "Uh oh.
+Computer is broken. A Doctor-person once told Floyd that Computer is the most
+important part of the Project."
+
+>NE
+Main Lab
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+>SAVE
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>OUTPUT.P): MAIN.P.1Ok.
+
+>OPEN BIO-LOCK DOOR
+The door opens.
+
+>E
+You can't go that way.
+
+>SE
+Bio Lock West
+This is the first half of a sterilization chamber to prevent contamination of
+the delicate biological experiments in the Bio Lab which lies beyond. The door
+to the west leads to the main lab, and the bio lock continues eastward.
+
+The door at the western end of the bio-lock closes silently.
+Floyd follows you.
+
+>L
+Bio Lock West
+This is the first half of a sterilization chamber to prevent contamination of
+the delicate biological experiments in the Bio Lab which lies beyond. The door
+to the west leads to the main lab, and the bio lock continues eastward.
+There is a multiple purpose robot here.
+
+>OPEN DOOR
+The door opens.
+Floyd chants the death scene from "Carmen".
+
+>CLOSE DOOR
+The door closes.
+Floyd yawns and looks bored.
+
+>L
+Bio Lock West
+This is the first half of a sterilization chamber to prevent contamination of
+the delicate biological experiments in the Bio Lab which lies beyond. The door
+to the west leads to the main lab, and the bio lock continues eastward.
+There is a multiple purpose robot here.
+
+>OPEN DOOR
+The door opens.
+
+>CLOSE DOOR
+The door closes.
+Floyd whistles tunelessly.
+
+>L IN WINDOW
+You can't see any window here!
+
+>RESTORE
+Floyd looks disappointed, but understanding. "That part of the game was more
+fun than this part," he admits.
+
+From file (PS:<LIZ>MAIN.P): MAIN.P.1Ok.
+Main Lab
+This is the heart of the Project's vast laboratory complex. There are exits to
+the west and southwest, and heavy metal doors to the northeast and southeast.
+A small doorway leads south.
+There is a multiple purpose robot here.
+
+>OPEN BIO-LOCK DOOR
+The door opens.
+
+>SE
+Bio Lock West
+This is the first half of a sterilization chamber to prevent contamination of
+the delicate biological experiments in the Bio Lab which lies beyond. The door
+to the west leads to the main lab, and the bio lock continues eastward.
+Floyd follows you.
+
+>E
+Bio Lock East
+The is the second half of the sterilization chamber leading from the main lab
+to the Bio Lab. The door to the east, leading to the Bio Lab, has a window.
+The bio lock continues to the west.
+
+The door at the western end of the bio-lock closes silently.
+Floyd follows you.
+
+>L IN WINDOW
+You can see a large laboratory, dimly illuminated. A blue glow comes from a
+crack in the northern wall of the lab. Shadowy, ominous shapes move about
+within the room. On the floor, just inside the door, you can see a
+magnetic-striped card.
+Floyd stands on his tiptoes and peers in the window. "Looks dangerous in
+there," says Floyd. "I don't think you should go inside." He peers in again.
+"We'll need card there to fix computer. Hmmm... I know! Floyd will get card.
+Robots are tough. Nothing can hurt robots. You open the door, then Floyd will
+rush in. Then you close door. When Floyd knocks, open door again. Okay? Go!"
+Floyd's voice trembles slightly as he waits for you to open the door.
+
+>SAVE
+Floyd's eyes light up. "Oh boy! Are we gonna try something dangerous now?"
+
+To file (PS:<LIZ>MAIN.P): MINI.P.1Ok.
+
+>OPEN DOOR
+The door opens and Floyd, pausing only for the briefest moment, plunges into
+the Bio Lab. Immediately, he is set upon by hideous, mutated monsters! More
+are heading straight toward the open door! Floyd shrieks and yells to you to
+close the door.
+
+>CLOSE DOOR
+The door closes.
+
+From within the lab you hear ferocious growlings, the sounds of a skirmish,
+and then a high-pitched metallic scream!
+
+>OPEN DOOR
+The door opens.
+
+The biological nightmares reach you. Gripping coils wrap around your limbs as
+powerful teeth begin tearing at your flesh. Something bites your leg, and you
+feel a powerful poison begin to work its numbing effects...
+
+    ****  You have died  ****
+
+Your score would be 54 (out of 80 points). It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 6068.
+This score gives you the rank of Planetary Commodore.
+
+Oh, well. According to the Treaty of Gishen IV, signed in 8747 GY, all
+adventure game players must be given another chance after dying. In the
+interests of interstellar peace...
+
+Would you like to restart this game from the beginning, restore a saved
+position, end this session of the game, or look at hints?
+(Type RESTART, RESTORE, QUIT, or HINTS):
+>RESTORE
+From file (PS:<LIZ>MINI.P): MINI.P.1Ok.
+Bio Lock East
+The is the second half of the sterilization chamber leading from the main lab
+to the Bio Lab. The door to the east, leading to the Bio Lab, has a window.
+The bio lock continues to the west.
+There is a multiple purpose robot here.
+
+>OPEN DOOR
+The door opens and Floyd, pausing only for the briefest moment, plunges into
+the Bio Lab. Immediately, he is set upon by hideous, mutated monsters! More
+are heading straight toward the open door! Floyd shrieks and yells to you to
+close the door.
+
+>CLOSE DOOR
+The door closes.
+
+From within the lab you hear ferocious growlings, the sounds of a skirmish,
+and then a high-pitched metallic scream!
+
+>Z
+Time passes...
+
+You hear, slightly muffled by the door, three fast knocks, followed by the
+distinctive sound of tearing metal.
+
+>OPEN DOOR
+The door opens.
+
+Floyd stumbles out of the Bio Lab, clutching the mini-booth card. The
+mutations rush toward the open doorway!
+
+>CLOSE DOOR
+The door closes.
+
+And not a moment too soon! You hear a pounding from the door as the monsters
+within vent their frustration at losing their prey.
+
+Floyd staggers to the ground, dropping the mini card. He is badly torn apart,
+with loose wires and broken circuits everywhere. Oil flows from his
+lubrication system. He obviously has only moments to live.
+
+You drop to your knees and cradle Floyd's head in your lap. Floyd looks up at
+his friend with half-open eyes. "Floyd did it ... got card. Floyd a good
+friend, huh?" Quietly, you sing Floyd's favorite song, the Ballad of the
+Starcrossed Miner:
+
+O, they ruled the solar system
+Near ten thousand years before
+In their single starcrossed scout ships
+Mining ast'roids, spinning lore.
+
+Then one true courageous miner
+Spied a spaceship from the stars
+Boarded he that alien liner
+Out beyond the orb of Mars.
+
+Yes, that ship was filled with danger
+Mighty monsters barred his way
+Yet he solved the alien myst'ries
+Mining quite a lode that day.
+
+O, they ruled the solar system
+Near ten thousand years before
+'Til one brave advent'rous spirit
+Brought that mighty ship to shore.
+
+As you finish the last verse, Floyd smiles with contentment, and then his eyes
+close as his head rolls to one side. You sit in silence for a moment, in
+memory of a brave friend who gave his life so that you might live.
+
+>I
+You are carrying:
+  A piece of paper
+  A teleportation access card
+  A fused ninety-ohm bedistor
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  A cardboard box
+  A laser
+  The laser contains:
+    A new battery
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>DROP PAPER,FUSED BEDISTOR
+piece of paper: Dropped.
+fused ninety-ohm bedistor: Dropped.
+
+>W
+Bio Lock West
+
+>OPEN DOOR
+The door opens.
+
+>NW
+You can't go that way.
+
+>W
+Main Lab
+
+The door at the western end of the bio-lock closes silently.
+
+>SW
+Computer Room
+There is a pile of computer output here.
+
+>S
+Miniaturization Booth
+This is a small room barely large enough for one person. Mounted on the wall
+is a small slot, and next to it a keyboard with numeric keys. The exit is to
+the north.
+
+>SAVE
+To file (PS:<LIZ>MINI.P): MINIB.P.1Ok.
+
+>SLIDE MINIATURIZATION CARD THROUGH SLOT
+You don't have that!
+
+>I
+You are carrying:
+  A teleportation access card
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  A cardboard box
+  A laser
+  The laser contains:
+    A new battery
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>RESTORE
+From file (PS:<LIZ>MINIB.P): MINI.P.1Ok.
+Bio Lock East
+The is the second half of the sterilization chamber leading from the main lab
+to the Bio Lab. The door to the east, leading to the Bio Lab, has a window.
+The bio lock continues to the west.
+There is a multiple purpose robot here.
+
+>L IN WINDOW
+You can see a large laboratory, dimly illuminated. A blue glow comes from a
+crack in the northern wall of the lab. Shadowy, ominous shapes move about
+within the room. On the floor, just inside the door, you can see a
+magnetic-striped card.
+Floyd looks at you with a dash of impatience and a healthy helping of
+nervousness. "Well?" he asks. "Are you going to open the door?"
+
+>OPEN DOOR
+The door opens and Floyd, pausing only for the briefest moment, plunges into
+the Bio Lab. Immediately, he is set upon by hideous, mutated monsters! More
+are heading straight toward the open door! Floyd shrieks and yells to you to
+close the door.
+
+>CLOSE DOOR
+The door closes.
+
+From within the lab you hear ferocious growlings, the sounds of a skirmish,
+and then a high-pitched metallic scream!
+
+>Z
+Time passes...
+
+You hear, slightly muffled by the door, three fast knocks, followed by the
+distinctive sound of tearing metal.
+
+>OPEN DOOR
+The door opens.
+
+Floyd stumbles out of the Bio Lab, clutching the mini-booth card. The
+mutations rush toward the open doorway!
+
+>CLOSE DOOR
+The door closes.
+
+And not a moment too soon! You hear a pounding from the door as the monsters
+within vent their frustration at losing their prey.
+
+Floyd staggers to the ground, dropping the mini card. He is badly torn apart,
+with loose wires and broken circuits everywhere. Oil flows from his
+lubrication system. He obviously has only moments to live.
+
+You drop to your knees and cradle Floyd's head in your lap. Floyd looks up at
+his friend with half-open eyes. "Floyd did it ... got card. Floyd a good
+friend, huh?" Quietly, you sing Floyd's favorite song, the Ballad of the
+Starcrossed Miner:
+
+O, they ruled the solar system
+Near ten thousand years before
+In their single starcrossed scout ships
+Mining ast'roids, spinning lore.
+
+Then one true courageous miner
+Spied a spaceship from the stars
+Boarded he that alien liner
+Out beyond the orb of Mars.
+
+Yes, that ship was filled with danger
+Mighty monsters barred his way
+Yet he solved the alien myst'ries
+Mining quite a lode that day.
+
+O, they ruled the solar system
+Near ten thousand years before
+'Til one brave advent'rous spirit
+Brought that mighty ship to shore.
+
+As you finish the last verse, Floyd smiles with contentment, and then his eyes
+close as his head rolls to one side. You sit in silence for a moment, in
+memory of a brave friend who gave his life so that you might live.
+
+>I
+You are carrying:
+  A piece of paper
+  A teleportation access card
+  A fused ninety-ohm bedistor
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  A cardboard box
+  A laser
+  The laser contains:
+    A new battery
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>DROP PAPER,FUSED BEDISTOR
+piece of paper: Dropped.
+fused ninety-ohm bedistor: Dropped.
+
+>GET MINIATURIZATION CARD
+Taken.
+
+>W
+Bio Lock West
+
+>W
+The bio-lock door is closed.
+
+>OPEN DOOR
+The door opens.
+
+>W
+Main Lab
+
+>SW
+Computer Room
+There is a pile of computer output here.
+
+>S
+Miniaturization Booth
+This is a small room barely large enough for one person. Mounted on the wall
+is a small slot, and next to it a keyboard with numeric keys. The exit is to
+the north.
+
+>SAVE
+To file (PS:<LIZ>MINI.P): MINIB.P.2Ok.
+
+>SLIDE MINIATURIZATION CARD THROUGH SLOT
+A melodic high-pitched voice says "Miniaturization and teleportation booth
+activated. Please type in damaged sector number."
+
+>SAY "TYPE 384"
+Talking to yourself is a sign of impending mental collapse.
+
+>TYPE 384
+You notice the walls of the booth sliding away in all directions, followed by
+a momentary queasiness in the pit of your stomach...
+
+Station 384
+You are standing on a square plate of heavy metal. Above your head, parallel
+to the plate beneath you, is an identical metal plate. To the east is a wide,
+metallic strip.
+
+>SET LASER TO 1
+The dial is now set to 1.
+
+>E
+Strip Near Station
+
+>N
+Middle of Strip
+You are standing on a section of the strip with a bottomless void stretching
+out on both sides. The strip continues to the north and south.
+
+>N
+Strip Near Relay
+North of here, the filament ends at a huge featureless wall, presumably the
+side of some microcomponent. To the east is a vacuu-sealed microrelay, sealed
+in transparent red plastic. You could probably see into the microrelay.
+
+>L AT RELAY
+This is a vacuum-sealed microrelay, encased in red translucent plastic.
+Within, you can see that some sort of speck or impurity has wedged itself into
+the contact point of the relay, preventing it from closing. The speck,
+presumably of microscopic size, resembles a blue boulder to you in your
+current size.
+
+>SAVE
+To file (PS:<LIZ>MINIB.P): SPECK.P.1Ok.
+
+>SHOOT SPECK
+A good shot, but just a little wide of the target.
+
+>G
+A near miss!
+
+>G
+A good shot, but just a little wide of the target.
+
+The laser feels slightly warm now, but that doesn't seem to affect its
+performance at all.
+
+>RESTORE
+From file (PS:<LIZ>SPECK.P): SPECK.P.1Ok.
+Strip Near Relay
+North of here, the filament ends at a huge featureless wall, presumably the
+side of some microcomponent. To the east is a vacuu-sealed microrelay, sealed
+in transparent red plastic. You could probably see into the microrelay.
+
+>SHOOT SPECK WITH LASER
+A near miss!
+
+>G
+The speck is hit by the beam! It sizzles a little, but isn't destroyed yet.
+
+>G
+A good shot, but just a little wide of the target.
+
+The laser feels slightly warm now, but that doesn't seem to affect its
+performance at all.
+
+>G
+The beam hits the speck again! This time, it vaporizes into a fine cloud of
+ash. The relay slowly begins to close, and a voice whispers in your ear
+"Sector 384 will activate in 200 millichrons. Proceed to exit station."
+
+>SET LASER TO 7
+The dial can only be set from 1 to 6.
+
+The laser has cooled, but it still feels slightly warm.
+
+>SET LASER TO 6
+The dial is now set to 6.
+
+>S
+Suddenly, with a loud plop, a giant elephant-sized monster lands on the strip
+just in front of you. It is amorphously shaped, its skin a slimy translucent
+red membrane. While most of your brain screams with panic about the disgusting
+monster that now blocks your exit, some small section in the back of your mind
+calmly realizes that this is merely some tiny microbe which has somehow
+violated the sterile environment of the computer interior.
+
+As you stand frozen with fear, the microbe slithers toward you, extending
+slimy pseudopods thick with waving cilia. It looks pretty hungry, and seems
+intent on having you for lunch.
+
+Middle of Strip
+A hungry microbe blocks your way, its cilia waving and its pseudopods towering
+over you.
+
+The microbe flows toward you. It towers above you, its cilia waving madly in
+your face.
+
+>SHOOT MICROBE WITH LASER
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time.
+
+>G
+The laser beam strikes the microbe. The monster rears back for a moment, but
+almost as soon as the beam goes off, it advances again.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time.
+
+The laser feels slightly warm now, but that doesn't seem to affect its
+performance at all.
+
+>G
+The laser beam strikes the microbe. The monster rears back for a moment, but
+almost as soon as the beam goes off, it advances again.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time.
+
+>G
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time.
+
+>G
+The laser beam strikes the microbe. The beam slices through the microbe's
+skin! A tremendous shudder passes through the microbe, but the wound quickly
+seals itself.
+
+A pseudopod extends toward you. You jump back just in time to avoid being
+engulfed.
+
+The laser feels somewhat warm now, but that doesn't seem to affect its
+performance at all.
+
+>THROW LASER OVER EDGE
+The laser flies over the edge of the strip and disappears into the void.
+
+The monster wriggles nearer. It is now so close that you can make out details
+in the protoplasm beneath its translucent skin.
+
+>RESTORE
+From file (PS:<LIZ>SPECK.P): SPECK.P.1Ok.
+Strip Near Relay
+North of here, the filament ends at a huge featureless wall, presumably the
+side of some microcomponent. To the east is a vacuu-sealed microrelay, sealed
+in transparent red plastic. You could probably see into the microrelay.
+
+>SHOOT SPECK WITH LASER
+The beam just misses the speck!
+
+>G
+The beam just misses the speck!
+
+>G
+The beam just misses the speck!
+
+The laser feels slightly warm now, but that doesn't seem to affect its
+performance at all.
+
+>G
+The speck is hit by the beam! It sizzles a little, but isn't destroyed yet.
+
+>G
+The beam hits the speck again! This time, it vaporizes into a fine cloud of
+ash. The relay slowly begins to close, and a voice whispers in your ear
+"Sector 384 will activate in 200 millichrons. Proceed to exit station."
+
+>SET LASER TO 6
+The dial is now set to 6.
+
+>S
+Suddenly, with a loud plop, a giant elephant-sized monster lands on the strip
+just in front of you. It is amorphously shaped, its skin a slimy translucent
+red membrane. While most of your brain screams with panic about the disgusting
+monster that now blocks your exit, some small section in the back of your mind
+calmly realizes that this is merely some tiny microbe which has somehow
+violated the sterile environment of the computer interior.
+
+As you stand frozen with fear, the microbe slithers toward you, extending
+slimy pseudopods thick with waving cilia. It looks pretty hungry, and seems
+intent on having you for lunch.
+
+Middle of Strip
+A hungry microbe blocks your way, its cilia waving and its pseudopods towering
+over you.
+
+The microbe flows toward you. It towers above you, its cilia waving madly in
+your face.
+
+The laser has cooled, but it still feels slightly warm.
+
+>SAVE
+To file (PS:<LIZ>SPECK.P): MICROBE.P.1Ok.
+
+>SHOOT MICROBE WITH LASER
+The laser beam strikes the microbe. The beam slices through the microbe's
+skin! A tremendous shudder passes through the microbe, but the wound quickly
+seals itself.
+
+Two protoplasm-filled blobs sneak toward you from the left. You jump to the
+side and almost fall off the strip into the void below!
+
+>G
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+A pseudopod shoots out toward your head! Ducking quickly, you save your life.
+
+>G
+The laser beam strikes the microbe. The beam slices through the microbe's
+skin! A tremendous shudder passes through the microbe, but the wound quickly
+seals itself.
+
+A pseudopod extends toward you. You jump back just in time to avoid being
+engulfed.
+
+The laser feels somewhat warm now, but that doesn't seem to affect its
+performance at all.
+
+>G
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time.
+
+>G
+The laser beam strikes the microbe. The beam slices through the microbe's
+skin! A tremendous shudder passes through the microbe, but the wound quickly
+seals itself.
+
+A pseudopod extends toward you. You jump back just in time to avoid being
+engulfed.
+
+>G
+The laser beam strikes the microbe. The monster rears back for a moment, but
+almost as soon as the beam goes off, it advances again.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time. Another pseudopod, perhaps attracted by the warmth of the laser, tries
+to envelop the weapon. You snatch it away from the monster's grasp.
+
+The laser feels very warm now, but that doesn't seem to affect its performance
+at all.
+
+>THROW LASER OVER EDGE
+As the laser flies over the edge of the strip, the hungry microbe lunges after
+it. Both the laser and the microbe plummet into the void. (Whew!)
+
+>S.W
+Strip Near Station
+
+A voice seems to whisper in your ear "Main Miniaturization and Teleportation
+Booth has malfunctioned...switching to Auxiliary Booth..." You feel the
+familiar wrenching of your innards, and find yourself in a vast room whose
+distant walls are rushing straight toward you...
+
+Auxiliary Booth
+
+>N
+Lab Office
+This is the office for storing files on Bio Lab experiments. A large and messy
+desk is surrounded by locked files. A small booth lies to the south. A closed
+door to the west is labelled "Biioo Lab." You realize with shock and horror
+that the only way out is through the mutant-infested Bio Lab.
+
+On the wall are three buttons: a white button labelled "Lab Liits On", a black
+button labelled "Lab Liits Of", and a red button labelled "Eemurjensee Sistum."
+
+>OPEN DESK
+Opening the desk reveals a gas mask.
+
+>GET MASK
+Taken.
+
+>WEAR IT
+You are wearing the gas mask.
+
+>PUSH RED BUTTON
+You hear a hissing from beyond the door to the west.
+
+>OPEN DOOR
+The office door is now open.
+Through the open doorway you can see the Bio Lab. It seems to be filled with a
+light mist. Horrifying biological nightmares stagger about making choking
+noises.
+
+>W
+Bio Lab
+This is a huge laboratory filled with many biological experiments. The
+lighting is dim, and a faint blue glow comes from a gaping crack in the
+northern wall. Some of the experiments seem to be out of control...
+A giant plant, teeming with poisonous tentacles, is shuffling toward you on
+three leg-like stalks.
+Lurking nearby is a vicious-looking creature with slavering fangs. Squinting
+in the light, it eyes you hungrily.
+Rushing toward you is an ugly, deformed humanoid, bellowing in a guttural
+tongue. It brandishes a piece of lab equipment shaped somewhat like a battle
+axe.
+A ferocious feral creature, with a hairy shelled body and a whip-like tail
+snaps its enormous mandibles at you.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>W
+The lab door is closed.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>OPEN DOOR
+Which door do you mean, the lab door or the office door?
+
+>LAB DOOR
+The door opens.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>W
+Bio Lock East
+There is a fused ninety-ohm bedistor here.
+There is a piece of paper here.
+Your former companion, Floyd, is lying on the ground in a pool of oil.
+
+A recorded announcement blares from the public address system. "Revival
+procedure beginning. Cryo-chamber access from Project Control Office now open."
+
+The mutants burst into the room right on your heels! The growling humanoid is
+charging straight at you, waving his axe-like implement!
+
+>OPEN DOOR
+It's already open!
+
+The door at the eastern end of the bio-lock closes silently.
+
+Dozens of hungry eyes fix on you as the mutations surround you and begin
+feasting.
+
+    ****  You have died  ****
+
+Your score would be 75 (out of 80 points). It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 6711.
+This score gives you the rank of Cluster Admiral.
+
+Oh, well. According to the Treaty of Gishen IV, signed in 8747 GY, all
+adventure game players must be given another chance after dying. In the
+interests of interstellar peace...
+
+Would you like to restart this game from the beginning, restore a saved
+position, end this session of the game, or look at hints?
+(Type RESTART, RESTORE, QUIT, or HINTS):
+>RESTORE
+From file (PS:<LIZ>MICROBE.P): MICROBE.P.1Ok.
+Middle of Strip
+You are standing on a section of the strip with a bottomless void stretching
+out on both sides. The strip continues to the north and south.
+A hungry microbe blocks your way, its cilia waving and its pseudopods towering
+over you.
+
+>SHOOT MICROBE
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+A pseudopod shoots out toward your head! Ducking quickly, you save your life.
+
+>G
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+Two protoplasm-filled blobs sneak toward you from the left. You jump to the
+side and almost fall off the strip into the void below!
+
+>G
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+Two protoplasm-filled blobs sneak toward you from the left. You jump to the
+side and almost fall off the strip into the void below!
+
+The laser feels somewhat warm now, but that doesn't seem to affect its
+performance at all.
+
+>G
+The laser beam strikes the microbe. The beam slices through the microbe's
+skin! A tremendous shudder passes through the microbe, but the wound quickly
+seals itself.
+
+A slimy pseudopod brushes against your shoulder. You twist away in the nick of
+time.
+
+>G
+The laser beam strikes the microbe. The beam slices through the microbe's
+skin! A tremendous shudder passes through the microbe, but the wound quickly
+seals itself.
+
+A pseudopod shoots out toward your head! Ducking quickly, you save your life.
+
+>G
+The laser beam strikes the microbe. The microbe's outer membrane sizzles a
+bit, and some protoplasm oozes out. The microbe recoils momentarily, but
+quickly recovers.
+
+A pseudopod extends toward you. You jump back just in time to avoid being
+engulfed. Another pseudopod, perhaps attracted by the warmth of the laser,
+tries to envelop the weapon. You snatch it away from the monster's grasp.
+
+The laser feels very warm now, but that doesn't seem to affect its performance
+at all.
+
+>THROW LASER OVER EDGE
+As the laser flies over the edge of the strip, the hungry microbe lunges after
+it. Both the laser and the microbe plummet into the void. (Whew!)
+
+>S.W
+Strip Near Station
+
+A voice seems to whisper in your ear "Main Miniaturization and Teleportation
+Booth has malfunctioned...switching to Auxiliary Booth..." You feel the
+familiar wrenching of your innards, and find yourself in a vast room whose
+distant walls are rushing straight toward you...
+
+Auxiliary Booth
+
+>N
+Lab Office
+This is the office for storing files on Bio Lab experiments. A large and messy
+desk is surrounded by locked files. A small booth lies to the south. A closed
+door to the west is labelled "Biioo Lab." You realize with shock and horror
+that the only way out is through the mutant-infested Bio Lab.
+
+On the wall are three buttons: a white button labelled "Lab Liits On", a black
+button labelled "Lab Liits Of", and a red button labelled "Eemurjensee Sistum."
+
+>OPEN DEKS
+[I don't know the word "deks."]
+
+>OOPS DESK
+Opening the desk reveals a gas mask.
+
+>GET MASK
+Taken.
+
+>WEAR IT
+You are wearing the gas mask.
+
+>SAVE
+To file (PS:<LIZ>MICROBE.P): MASK.P.1Ok.
+
+>PUSH RED BUTTON
+You hear a hissing from beyond the door to the west.
+
+>OPEN DOOR
+The office door is now open.
+Through the open doorway you can see the Bio Lab. It seems to be filled with a
+light mist. Horrifying biological nightmares stagger about making choking
+noises.
+
+>W
+Bio Lab
+This is a huge laboratory filled with many biological experiments. The
+lighting is dim, and a faint blue glow comes from a gaping crack in the
+northern wall. Some of the experiments seem to be out of control...
+A giant plant, teeming with poisonous tentacles, is shuffling toward you on
+three leg-like stalks.
+Lurking nearby is a vicious-looking creature with slavering fangs. Squinting
+in the light, it eyes you hungrily.
+Rushing toward you is an ugly, deformed humanoid, bellowing in a guttural
+tongue. It brandishes a piece of lab equipment shaped somewhat like a battle
+axe.
+A ferocious feral creature, with a hairy shelled body and a whip-like tail
+snaps its enormous mandibles at you.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>OPEN DOOR
+Which door do you mean, the lab door or the office door?
+
+>W
+The lab door is closed.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>OPEN LAB DOOR
+The door opens.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>W
+Bio Lock East
+There is a fused ninety-ohm bedistor here.
+There is a piece of paper here.
+Your former companion, Floyd, is lying on the ground in a pool of oil.
+
+A recorded announcement blares from the public address system. "Revival
+procedure beginning. Cryo-chamber access from Project Control Office now open."
+
+The mutants burst into the room right on your heels! The mobile plant whips
+its poisonous tentacles against your ankles!
+
+>OPEN LAB DOOR
+It's already open!
+
+The door at the eastern end of the bio-lock closes silently.
+
+Dozens of hungry eyes fix on you as the mutations surround you and begin
+feasting.
+
+    ****  You have died  ****
+
+Your score would be 75 (out of 80 points). It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 6711.
+This score gives you the rank of Cluster Admiral.
+
+Oh, well. According to the Treaty of Gishen IV, signed in 8747 GY, all
+adventure game players must be given another chance after dying. In the
+interests of interstellar peace...
+
+Would you like to restart this game from the beginning, restore a saved
+position, end this session of the game, or look at hints?
+(Type RESTART, RESTORE, QUIT, or HINTS):
+>RESTORE
+From file (PS:<LIZ>MASK.P): MASK.P.1Ok.
+Lab Office
+This is the office for storing files on Bio Lab experiments. A large and messy
+desk is surrounded by locked files. A small booth lies to the south. A closed
+door to the west is labelled "Biioo Lab." You realize with shock and horror
+that the only way out is through the mutant-infested Bio Lab.
+
+On the wall are three buttons: a white button labelled "Lab Liits On", a black
+button labelled "Lab Liits Of", and a red button labelled "Eemurjensee Sistum."
+
+>I
+You are carrying:
+  A gas mask (being worn)
+  A miniaturization access card
+  A teleportation access card
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  A cardboard box
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>PUSH RED BUTTON
+You hear a hissing from beyond the door to the west.
+
+>W
+The office door is closed.
+
+>OPEN DOOR
+The office door is now open.
+Through the open doorway you can see the Bio Lab. It seems to be filled with a
+light mist. Horrifying biological nightmares stagger about making choking
+noises.
+
+>W
+Bio Lab
+This is a huge laboratory filled with many biological experiments. The
+lighting is dim, and a faint blue glow comes from a gaping crack in the
+northern wall. Some of the experiments seem to be out of control...
+A giant plant, teeming with poisonous tentacles, is shuffling toward you on
+three leg-like stalks.
+Lurking nearby is a vicious-looking creature with slavering fangs. Squinting
+in the light, it eyes you hungrily.
+Rushing toward you is an ugly, deformed humanoid, bellowing in a guttural
+tongue. It brandishes a piece of lab equipment shaped somewhat like a battle
+axe.
+A ferocious feral creature, with a hairy shelled body and a whip-like tail
+snaps its enormous mandibles at you.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+A recorded announcement blares from the public address system. "Revival
+procedure beginning. Cryo-chamber access from Project Control Office now open."
+
+>OPEN LAB DOOR
+The door opens.
+The air is filled with mist, which is affecting the mutants. They appear to be
+stunned and confused, but are slowly recovering.
+
+>W
+Bio Lock East
+There is a fused ninety-ohm bedistor here.
+There is a piece of paper here.
+Your former companion, Floyd, is lying on the ground in a pool of oil.
+
+The mutants burst into the room right on your heels! The mobile plant whips
+its poisonous tentacles against your ankles!
+
+>W
+Bio Lock West
+
+The door at the eastern end of the bio-lock closes silently.
+
+The monsters gallop toward you, smacking their lips.
+
+>OPEN DOOR
+The door opens.
+
+The mutants are almost upon you now!
+
+>W
+Main Lab
+
+The mutants burst into the room right on your heels! The growling humanoid is
+charging straight at you, waving his axe-like implement!
+
+>SW
+Computer Room
+There is a pile of computer output here.
+
+The mutants burst into the room right on your heels! Needle-sharp mandibles
+nip at your arms!
+
+>N
+Project Corridor East
+
+The mutants burst into the room right on your heels! Needle-sharp mandibles
+nip at your arms!
+
+>W
+Project Corridor
+You are at the center of a long east-west hallway. A doorway, labelled
+"PrajKon Awfis", opens to the south.
+
+The mutants burst into the room right on your heels! A pair of slavering fangs
+removes part of your clothing!
+
+>S
+ProjCon Office
+This office looks like a headquarters of some kind. Exits lead north and east.
+The west wall displays a logo. The mural that previously adorned the south
+wall has slid away, revealing an open doorway to a large elevator!
+
+The mutants burst into the room right on your heels! The growling humanoid is
+charging straight at you, waving his axe-like implement!
+
+>S
+Cryo-Elevator
+This is a large, plain elevator with one solitary button and a door to the
+north which is open.
+
+The monsters are storming straight toward the elevator door!
+
+>PUSH BUTTON
+The elevator door closes just as the monsters reach it! You slump back against
+the wall, exhausted from the chase. The elevator begins to move downward.
+
+>Z
+Time passes...
+
+>SAVE
+To file (PS:<LIZ>MASK.P): END.P.1Ok.
+
+>Z
+Time passes...
+
+>L
+Cryo-Elevator
+This is a large, plain elevator with one solitary button and a door to the
+north which is closed.
+
+>Z
+Time passes...
+
+The elevator door opens onto a room to the north.
+
+>N
+Cryo-Anteroom
+The elevator closes as you leave it, and you find yourself in a small, chilly
+room. To the north, through a wide arch, is an enormous chamber lined from
+floor to ceiling with thousands of cryo-units. You can see similar chambers
+beyond, and your mind staggers at the thought of the millions of individuals
+asleep for countless centuries.
+
+In the anteroom where you stand is a solitary cryo-unit, its cover frosted.
+Next to the cryo-unit is a complicated control panel.
+
+A door slides open and a medical robot glides in. It opens the cryo-unit and
+administers an injection to its inhabitant. As the robot glides away, a figure
+rises from the cryo-unit -- a handsome, middle-aged woman with flowing red
+hair. She spends some time studying readouts from the control panel, pressing
+several keys.
+
+As other cryo-units in the chambers beyond begin opening, the woman turns to
+you, bows gracefully, and speaks in a beautiful, lilting voice. "I am Veldina,
+leader of Resida. Thanks to you, the cure has been discovered, and the
+planetary systems repaired. We are eternally grateful."
+
+"You will also be glad to hear that a ship of your Stellar Patrol now orbits
+the planet. I have sent them the coordinates for this room." As if on cue, a
+landing party from the S.P.S. Flathead materializes nearby. Blather is with
+them, having been picked up from deep space in another escape pod, babbling
+cravenly. Captain Sterling of the Flathead acknowledges your heroic actions,
+and informs you of your promotion to Lieutenant First Class.
+
+As a team of mutant hunters head for the cryo-elevator, Veldina mentions that
+the grateful people of Resida offer you leadership of their world. Captain
+Sterling points out that, even if you choose to remain on Resida, Blather
+(demoted to Ensign Twelfth Class) has been assigned as your personal toilet
+attendant.
+
+You feel a sting from your arm and turn to see a medical robot moving away
+after administering the antidote for The Disease.
+
+A team of robot technicians step into the anteroom. They part their ranks, and
+a familiar figure comes bounding toward you! "Hi!" shouts Floyd, with
+uncontrolled enthusiasm. "Floyd feeling better now!" Smiling from ear to ear,
+he says, "Look what Floyd found!" He hands you a helicopter key, a reactor
+elevator card, and a paddleball set. "Maybe we can use them in the sequel..."
+
+
+Your score would be 80 (out of 80 points). It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 6993.
+This score gives you the rank of Galactic Overlord.
+Would you like to restart this game from the beginning, restore a saved
+position, end this session of the game, or look at hints?
+(Type RESTART, RESTORE, QUIT, or HINTS):
+>RESTORE
+From file (PS:<LIZ>END.P): Failed.
+
+Would you like to restart this game from the beginning, restore a saved
+position, end this session of the game, or look at hints?
+(Type RESTART, RESTORE, QUIT, or HINTS):
+>RESTORE
+From file (PS:<LIZ>END.P): KEY.P.2Ok.
+Admin Corridor South
+This section of hallway seems to have suffered some minor structural damage.
+The walls are cracked, and a jagged crevice crosses the floor. An opening
+leads east and the corridor heads north and south.
+
+>I
+You are carrying:
+  A curved metal bar
+  A survival kit
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>RESTORE
+From file (PS:<LIZ>KEY.P): Failed.
+
+>RESTORE
+From file (PS:<LIZ>KEY.P): Failed.
+
+>RESTORE
+From file (PS:<LIZ>KEY.P): Failed.
+
+>RESTORE
+From file (PS:<LIZ>KEY.P): KITCH.P.1Ok.
+Mess Hall
+This is a large hall lined with tables and benches. An opening to the north
+leads back to the corridor. A door to the south is closed. Next to the door is
+a small slot.
+There is a multiple purpose robot here.
+
+>I
+You are carrying:
+  A kitchen access card
+  An upper elevator access card
+  A canteen
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>RESTORE
+Floyd looks disappointed, but understanding. "That part of the game was more
+fun than this part," he admits.
+
+From file (PS:<LIZ>KITCH.P): LOWER.P.1Ok.
+Lower Elevator
+This is a medium-sized room with a door to the north which is open. A control
+panel contains an Up button, a Down button, and a narrow slot.
+There is a multiple purpose robot here.
+
+>N
+Elevator Lobby
+
+>N
+Upper Elevator
+There is a glass flask here.
+There is an upper elevator access card here.
+
+Floyd bounces into the elevator. "Hey, wait for Floyd!" he yells, smiling
+broadly.
+
+>S.W.S.S.S.S.PUT FLASK UNDER SPOUT.PUSH GREEN BUTTON.GET FLASK.N.N.N.N
+Elevator Lobby
+
+Corridor Junction
+
+Floyd rushes into the room and barrels into you. "Oops, sorry," he says.
+"Floyd not looking at where he was going to."
+
+Mech Corridor North
+
+Mech Corridor
+
+Mech Corridor South
+
+Machine Shop
+
+Floyd bounds into the room. "Floyd here now!" he cries.
+
+You don't have that!
+
+>I
+You are carrying:
+  A canteen
+  The canteen contains:
+    A quantity of protein-rich liquid
+  A cardboard box
+  The cardboard box contains:
+    A pair of wide-nosed pliers
+    A good ninety-ohm bedistor
+  A laser
+  A lower elevator access card
+  A shuttle access card
+  A Patrol uniform (being worn)
+  The Patrol uniform contains:
+    An ID card
+  A chronometer (being worn)
+
+>Q
+Your score would be 34 (out of 80 points). It is Day 2 of your adventure.
+Current Galactic Standard Time (adjusted to your local day-cycle) is 4274.
+This score gives you the rank of Ensign First Class.
+
+Floyd grins impishly. "Giving up, huh?"
+
+Do you wish to leave the game? (Y is affirmative): >Y
